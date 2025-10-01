@@ -1,1 +1,72 @@
+##  Storage services list as of 30 September 2025
+
+-------------------------------------------------------
+Storage
+
+1 Archive Storage
+Industry leading price point for storing rarely accessed data
+
+
+2 Azure Backup
+Simplify data protection and protect against ransomware
+
+
+3 Azure Blob Storage
+REST-based object storage for unstructured data
+
+
+4 Azure confidential ledger
+Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence
+
+
+5 Azure Container Storage
+Manage persistent volumes for stateful container applications
+
+
+6 Azure Data Box
+Appliances and solutions for data transfer to Azure
+
+
+7 Azure Data Lake Storage
+Massively scalable, secure data lake functionality built on Azure Blob Storage
+
+
+8 Azure Data Share
+A simple and safe service for sharing big data with external organizations
+
+
+9 Azure Disk Storage
+High-performance, highly durable block storage for Azure Virtual Machines
+
+
+10 Azure Elastic SAN
+Elastic SAN is a cloud-native Storage Area Network (SAN) service built on Azure. Gain access to an end-to-end experience like your on-premises SAN.
+
+
+11 Azure Files
+Simple, secure and serverless enterprise-grade cloud file shares
+
+
+12 Azure Managed Lustre
+A fully managed, cloud based parallel file system that enables customers to run their high performance computing (HPC) workloads in the cloud
+
+
+13 Azure NetApp Files
+Enterprise-grade Azure file shares, powered by NetApp
+
+
+14 Azure Storage Actions
+Simplify storage data management at massive scale
+
+
+15 Queue Storage
+Effectively scale apps according to traffic
+
+
+16 Storage
+Durable, highly available, and massively scalable cloud storage
+
+
+17 Storage Explorer
+View and interact with Azure Storage resources
 
