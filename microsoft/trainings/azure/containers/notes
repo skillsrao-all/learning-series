@@ -1,1 +1,46 @@
+##  Container Services list as of 30 September 2025
 
+-------------------------------------------------------
+
+1 App Configuration
+Fast, scalable parameter storage for app configuration
+
+
+2 Azure Container Apps
+Build and deploy modern apps and microservices using serverless containers
+
+
+3 Azure Container Instances
+Easily run containers on Azure without managing servers
+
+
+4 Azure Container Registry
+Store and manage container images across all types of Azure deployments
+
+
+5 Azure Container Storage
+Manage persistent volumes for stateful container applications
+
+
+6 Azure Functions
+Process events with serverless code
+
+
+7 Azure Kubernetes Fleet Manager (Fleet)
+Enable multi-cluster and at-scale scenarios for Azure Kubernetes Service clusters
+
+
+8 Azure Kubernetes Service (AKS)
+Simplify the deployment, management, and operations of Kubernetes
+
+
+9 Azure Red Hat OpenShift
+Fully managed OpenShift service, jointly operated with Red Hat
+
+
+10 Service Fabric
+Develop microservices and orchestrate containers on Windows or Linux
+
+
+11 Web App for Containers
+Easily deploy and run containerized web apps that scale with your business
