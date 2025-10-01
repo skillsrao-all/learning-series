@@ -1,1 +1,64 @@
 
+##  Hybrid + Multicloud services list as of 30 September 2025
+
+-------------------------------------------------------
+Hybrid + multicloud
+
+1 Azure Arc
+Bring Azure services and management to any infrastructure
+
+
+2 Azure Database for PostgreSQL
+Managed PostgreSQL database service for app developers
+
+
+3 Azure DevOps
+Services for teams to share code, track work, and ship software
+
+
+4 Azure ExpressRoute
+Dedicated private network fiber connections to Azure
+
+
+5 Azure IoT Edge
+Extend cloud intelligence and analytics to edge devices
+
+
+6 Azure Kubernetes Service Edge Essentials
+An on-premises Kubernetes implementation of Azure Kubernetes Service (AKS) that automates running containerized applications at scale
+
+
+7 Azure Local
+Operate infrastructure across distributed locations enabled by Azure Arc
+
+
+8 Azure Operator Insights
+Analyze network data from multiple sources
+
+
+9 Azure Operator Nexus
+Build your mission-critical mobile networks with a carrier-grade, hybrid cloud platform
+
+
+10 Azure Operator Service Manager
+Manage network services across hybrid cloud sites
+
+
+11 Azure SQL
+Modern SQL family for migration and app modernization
+
+
+12 Azure Stack Edge
+An Azure managed appliance that brings the compute, storage, and intelligence of Azure to the edge
+
+
+13 Azure Stack Hub
+Azure Stack Hub is sold as an integrated hardware system, with software preinstalled on validated hardware
+
+
+14 Microsoft Entra ID
+Synchronize on-premises directories and enable single sign-on
+
+
+15 Microsoft Sentinel
+Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise
