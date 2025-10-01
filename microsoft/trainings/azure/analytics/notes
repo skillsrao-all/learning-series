@@ -1,1 +1,62 @@
+## Services list as of 30 September 2025
+-----------------------------------------
 
+
+1 Azure Analysis Services
+Enterprise-grade analytics engine as a service
+
+
+2 Azure Chaos Studio
+Improve application resilience by introducing faults and simulating outages
+
+
+3 Azure Data Explorer
+Fast and highly scalable data exploration service
+
+
+4 Azure Data Lake Storage
+Massively scalable, secure data lake functionality built on Azure Blob Storage
+
+
+5 Azure Data Share
+A simple and safe service for sharing big data with external organizations
+
+
+6 Azure Databricks
+Fast, easy, and collaborative Apache Spark-based analytics platform
+
+
+7 Azure Stream Analytics
+Real-time analytics on fast moving streams of data from applications and devices
+
+
+8 Azure Synapse Analytics
+Limitless analytics service with unmatched time to insight
+
+
+9 Data Factory
+Hybrid data integration at enterprise scale, made easy
+
+
+10 Data Lake Analytics
+Distributed analytics service that makes big data easy
+
+
+11 Event Hubs
+Receive telemetry from millions of devices
+
+
+12 HDInsight
+Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters
+
+
+13 Log Analytics
+Full observability into your applications, infrastructure, and network
+
+
+14 Microsoft Purview
+Maximize business value with unified data governance
+
+
+15 Power BI Embedded
+Embed fully interactive, stunning data visualizations in your applications
