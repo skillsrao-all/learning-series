@@ -1,1 +1,49 @@
 
+##  Developer tools list as of 30 September 2025
+
+-------------------------------------------------------
+
+Developer Tools
+
+1 App Configuration
+Fast, scalable parameter storage for app configuration
+
+
+2 Azure Data Studio
+A lightweight editor that can run serverless SQL pool queries and view and save results as text, JSON, or Excel.
+
+
+3 Azure DevOps
+Services for teams to share code, track work, and ship software
+
+
+4 Azure DevTest Labs
+Quickly create environments using reusable templates and artifacts
+
+
+5 Azure Lab Services
+Set up labs for classrooms, trials, development and testing, and other scenarios
+
+
+6 Azure Pipelines
+Continuously build, test, and deploy to any platform and cloud
+
+
+7 GitHub Actions for Azure
+Build, test, and deploy any app from GitHub to Azure
+
+
+8 Microsoft Dev Box
+Streamline development with secure, ready-to-code workstations in the cloud
+
+
+9 Microsoft Playwright Testing (Preview)
+Run end-to-end Playwright tests at scale
+
+
+10 Visual Studio
+The powerful and flexible environment for developing applications in the cloud
+
+
+11 Visual Studio Code
+A powerful, lightweight code editor for cloud development
