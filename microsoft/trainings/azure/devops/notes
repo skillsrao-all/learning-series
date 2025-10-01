@@ -1,1 +1,59 @@
 
+##  DevOps services list as of 30 September 2025
+
+-------------------------------------------------------
+
+1 Azure App Testing
+Test your app holistically with Azure Load Testing and Playwright Workspaces
+
+
+2 Azure Artifacts
+Create, host, and share packages with your team
+
+
+3 Azure Boards
+Plan, track, and discuss work across your teams
+
+
+4 Azure Deployment Environments
+Quickly spin up app infrastructure environments with project-based templates
+
+
+5 Azure DevOps
+Services for teams to share code, track work, and ship software
+
+
+6 Azure DevTest Labs
+Quickly create environments using reusable templates and artifacts
+
+
+7 Azure Managed Grafana
+Deploy Grafana dashboards as a fully managed Azure service
+
+
+8 Azure Monitor
+Full observability into your applications, infrastructure, and network
+
+
+9 Azure Pipelines
+Continuously build, test, and deploy to any platform and cloud
+
+
+10 Azure Repos
+Get unlimited, cloud-hosted private Git repos for your project
+
+
+11 Azure Test Plans
+Test and ship with confidence with a manual and exploratory testing toolkit
+
+
+12 GitHub Actions for Azure
+Build, test, and deploy any app from GitHub to Azure
+
+
+13 Microsoft Dev Box
+Streamline development with secure, ready-to-code workstations in the cloud
+
+
+14 Microsoft Playwright Testing (Preview)
+Run end-to-end Playwright tests at scale
