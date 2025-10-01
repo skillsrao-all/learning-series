@@ -1,1 +1,103 @@
 
+##  Management and Governance services list as of 30 September 2025
+
+-------------------------------------------------------------------
+
+
+
+Management and Governance
+
+ARM templates
+Deliver infrastructure as code for all your Azure resources using Resource Manager
+
+
+Automation
+Simplify cloud management with process automation
+
+
+Azure Advisor
+Your personalized Azure best practices recommendation engine
+
+
+Azure Backup
+Simplify data protection and protect against ransomware
+
+
+Azure Blueprints (Preview)
+Enabling quick, repeatable creation of governed environments
+
+
+Azure Chaos Studio
+Improve application resilience by introducing faults and simulating outages
+
+
+Azure Cloud Shell
+Streamline Azure administration with a browser-based shell
+
+
+Azure Lighthouse
+Empowering service providers to manage customers at scale and with precision
+
+
+Azure Managed Applications
+Simplify management of cloud offerings
+
+
+Azure Managed Grafana
+Deploy Grafana dashboards as a fully managed Azure service
+
+
+Azure Migrate
+Easily discover, assess, right-size, and migrate your on-premises VMs to Azure
+
+
+Azure Monitor
+Full observability into your applications, infrastructure, and network
+
+
+Azure Policy
+Implement corporate governance and standards at scale for Azure resources
+
+
+Azure Resource Manager
+Simplify how you manage your app resources
+
+
+Azure Resource Mover
+Simplify how you move multiple resources between Azure regions
+
+
+Azure Service Health
+Personalized guidance and support for when issues in Azure services affect you
+
+
+Azure Site Recovery
+Keep your business running with built-in disaster recovery service
+
+
+Azure Update Manager
+Centrally manage updates and compliance at scale
+
+
+Cost Management + Billing
+Optimize what you spend on the cloud, while maximizing cloud potential
+
+
+Log Analytics
+Full observability into your applications, infrastructure, and network
+
+
+Microsoft Azure portal
+Build, manage, and monitor all Azure products in a single, unified console
+
+
+Microsoft Copilot in Azure
+Simplify operations and management from cloud to edge with an AI companion
+
+
+Microsoft Defender for External Attack Surface Management
+Safeguard the digital experience by discovering all internet-exposed resources
+
+
+Microsoft Purview
+Maximize business value with unified data governance
