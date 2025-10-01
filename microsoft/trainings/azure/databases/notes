@@ -1,1 +1,64 @@
+##  Databases Services list as of 30 September 2025
+
+-------------------------------------------------------
+Databases
+
+1 Azure Cache for Redis
+Power applications with high-throughput, low-latency data access
+
+
+2 Azure confidential ledger
+Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence
+
+
+3 Azure Cosmos DB
+Fast NoSQL database with open APIs for any scale
+
+
+4 Azure Database for MariaDB
+Managed MariaDB database service for app developers
+
+
+5 Azure Database for MySQL
+Managed MySQL database service for app developers
+
+
+6 Azure Database for PostgreSQL
+Managed PostgreSQL database service for app developers
+
+
+7 Azure Database Migration Service
+Simplify on-premises database migration to the cloud
+
+
+8 Azure Managed Instance for Apache Cassandra
+Automate deployment and scaling for managed open-source Apache Cassandra datacenters
+
+
+9 Azure Managed Redis
+Power applications with a high-performance, managed cache
+
+
+10 Azure SQL
+Modern SQL family for migration and app modernization
+
+
+11 Azure SQL Database
+Managed, intelligent SQL in the cloud
+
+
+12 Azure SQL Edge
+Small-footprint, edge-optimized data engine with built-in AI
+
+
+13 Azure SQL Managed Instance
+Managed, always up-to-date SQL instance in the cloud
+
+
+14 SQL Server on Virtual Machines
+Host enterprise SQL Server apps in the cloud
+
+
+15 Table Storage
+NoSQL key-value store using semi-structured datasets
 
