@@ -1,1 +1,85 @@
 
+##  Internet of things services list as of 30 September 2025
+
+-------------------------------------------------------
+Internet of Things
+
+1 API Management
+Publish APIs to developers, partners, and employees securely and at scale
+
+
+2 Azure Cosmos DB
+Fast NoSQL database with open APIs for any scale
+
+
+3 Azure Digital Twins
+Build next-generation IoT spatial intelligence solutions
+
+
+4 Azure Functions
+Process events with serverless code
+
+
+5 Azure IoT
+A collection of Microsoft-managed cloud and edge services that connect, monitor, and control billions of IoT assets.
+
+
+6 Azure IoT Central
+Accelerate the creation of IoT solutions
+
+
+7 Azure IoT Edge
+Extend cloud intelligence and analytics to edge devices
+
+
+8 Azure IoT Hub
+Connect, monitor, and manage billions of IoT assets
+
+
+9 Azure IoT Operations
+Unlock insights for intelligent local actions and global visibility
+
+
+10 Azure Machine Learning
+Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management
+
+
+11 Azure Maps
+Simple and secure location APIs provide geospatial context to data
+
+
+12 Azure Sphere
+Securely connect MCU-powered devices from the silicon to the cloud
+
+
+13 Azure SQL Edge
+Small-footprint, edge-optimized data engine with built-in AI
+
+
+14 Azure Stream Analytics
+Real-time analytics on fast moving streams of data from applications and devices
+
+
+15 Event Grid
+Get reliable event delivery at massive scale
+
+
+16 Logic Apps
+Automate the access and use of data across clouds without writing code
+
+
+17 Microsoft Defender for IoT
+Continuous asset management and threat detection for both unmanaged and managed IoT/OT devices
+
+
+18 Notification Hubs
+Send push notifications to any platform from any back end
+
+
+19 Windows 10 IoT Core Services
+Long-term OS support and services to manage device updates and assess device health
+
+
+20 Windows for IoT
+Build intelligent edge solutions with world-class developer tools, long-term support, and enterprise-grade security
+
