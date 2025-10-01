@@ -1,1 +1,83 @@
+##  Compute Services list as of 30 September 2025
+
+-------------------------------------------------------
+
+1 App Service
+Quickly create powerful cloud apps for web and mobile
+
+
+2 Azure Compute Fleet (Preview)
+Easily provision and manage Azure compute capacity at scale
+
+
+3 Azure Container Instances
+Easily run containers on Azure without managing servers
+
+
+4 Azure CycleCloud
+Create, manage, operate, and optimize HPC and big compute clusters of any scale
+
+
+5 Azure Dedicated Host
+A dedicated physical server to host your Azure VMs for Windows and Linux
+
+
+6 Azure Functions
+Process events with serverless code
+
+
+7 Azure Kubernetes Fleet Manager (Fleet)
+Enable multi-cluster and at-scale scenarios for Azure Kubernetes Service clusters
+
+
+8 Azure Kubernetes Service (AKS)
+Simplify the deployment, management, and operations of Kubernetes
+
+
+9 Azure Quantum (Preview)
+Experience quantum impact today on Azure
+
+
+10 Azure Spot Virtual Machines
+Provision unused compute capacity at deep discounts to run interruptible workloads
+
+
+11 Azure Spring Apps
+A fully managed Spring Cloud service, built and operated with Pivotal
+
+
+12 Azure Virtual Desktop
+The best virtual desktop experience, delivered on Azure
+
+
+13 Azure VMware Solution
+Run your VMware workloads natively on Azure
+
+
+14 Batch
+Cloud-scale job scheduling and compute management
+
+
+15 Cloud Services
+Create highly available, infinitely scalable cloud applications and APIs
+
+
+16 Service Fabric
+Develop microservices and orchestrate containers on Windows or Linux
+
+
+17 SQL Server on Virtual Machines
+Host enterprise SQL Server apps in the cloud
+
+
+18 Static Web Apps
+A modern web app service that offers streamlined full-stack development from source code to global high availability
+
+
+19 Virtual Machine Scale Sets
+Manage and scale up to thousands of Linux and Windows virtual machines
+
+
+20 Virtual Machines
+Provision virtual machines for Ubuntu, Red Hat, Windows, and more
 
