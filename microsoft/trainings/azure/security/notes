@@ -1,1 +1,76 @@
+##  Security services list as of 30 September 2025
 
+-------------------------------------------------------
+
+Security
+
+1 App Configuration
+Fast, scalable parameter storage for app configuration
+
+
+2 Application Gateway
+Build secure, scalable, and highly available web front ends in Azure
+
+
+3 Azure confidential ledger
+Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence
+
+
+4 Azure DDoS Protection
+Protect your applications from Distributed Denial of Service (DDoS) attacks
+
+
+5 Azure Dedicated HSM
+Manage hardware security modules that you use in the cloud
+
+
+6 Azure Firewall
+Native firewalling capabilities with built-in high availability, unrestricted cloud scalability, and zero maintenance
+
+
+7 Azure Front Door
+Scalable, security-enhanced delivery point for global, microservice-based web applications
+
+
+8 Azure Information Protection
+Better protect your sensitive information—anytime, anywhere
+
+
+9 Key Vault
+Safeguard and maintain control of keys and other secrets
+
+
+10 Microsoft Defender for Cloud
+Security posture management and advanced threat protection across Azure, hybrid, and multicloud workloads
+
+
+11 Microsoft Defender for External Attack Surface Management
+Safeguard the digital experience by discovering all internet-exposed resources
+
+
+12 Microsoft Defender for IoT
+Continuous asset management and threat detection for both unmanaged and managed IoT/OT devices
+
+
+13 Microsoft Entra Domain Services
+Join Azure virtual machines to a domain without domain controllers
+
+
+14 Microsoft Entra ID
+Synchronize on-premises directories and enable single sign-on
+
+
+15 Microsoft Sentinel
+Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise
+
+
+16 NAT Gateway
+Provide highly reliable, secure, and scalable outbound connectivity to the internet
+
+
+17 VPN Gateway
+Establish secure, cross-premises connectivity
+
+
+18 Web Application Firewall
+A cloud-native web application firewall (WAF) service that provides powerful protection for web apps
