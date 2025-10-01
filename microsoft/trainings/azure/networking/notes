@@ -1,1 +1,57 @@
+##  Networking services list as of 30 September 2025
+
+-------------------------------------------------------
+
+Networking
+
+1 All networking services
+Provide connectivity to your resources in Azure, deliver and protect applications, and help secure your network.
+
+
+2 Application Gateway
+Build secure, scalable, and highly available web front ends in Azure
+
+
+3 Azure DDoS Protection
+Protect your applications from Distributed Denial of Service (DDoS) attacks
+
+
+4 Azure DNS
+Host your DNS domain in Azure
+
+
+5 Azure ExpressRoute
+Dedicated private network fiber connections to Azure
+
+
+6 Azure Firewall
+Native firewalling capabilities with built-in high availability, unrestricted cloud scalability, and zero maintenance
+
+
+7 Azure Front Door
+Scalable, security-enhanced delivery point for global, microservice-based web applications
+
+
+8 Azure Private Link
+Private access to services hosted on the Azure platform, keeping your data on the Microsoft network
+
+
+9 Load Balancer
+Deliver high availability and network performance to your applications
+
+
+10 Virtual Network
+Provision private networks, optionally connect to on-premises datacenters
+
+
+11 Virtual WAN
+Microsoft-managed hub and spoke service for connectivity and security
+
+
+12 VPN Gateway
+Establish secure, cross-premises connectivity
+
+
+13 Web Application Firewall
+A cloud-native web application firewall (WAF) service that provides powerful protection for web apps
 
