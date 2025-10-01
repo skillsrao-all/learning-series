@@ -1,1 +1,68 @@
+##  Web services list as of 30 September 2025
 
+-------------------------------------------------------
+
+Web
+
+1 API Management
+Publish APIs to developers, partners, and employees securely and at scale
+
+
+2 App Configuration
+Fast, scalable parameter storage for app configuration
+
+
+3 App Service
+Quickly create powerful cloud apps for web and mobile
+
+
+4 Azure AI Search
+AI-powered cloud search service for mobile and web app development
+
+
+5 Azure Communication Services
+Build rich communication experiences with the same secure platform used by Microsoft Teams
+
+
+6 Azure Fluid Relay
+Easily add real-time collaborative experiences to your apps with Fluid Framework
+
+
+7 Azure Front Door and Content Delivery Network (CDN)
+Ensure secure, reliable content delivery with broad global reach
+
+
+8 Azure Functions
+Process events with serverless code
+
+
+9 Azure Maps
+Simple and secure location APIs provide geospatial context to data
+
+
+10 Azure SignalR Service
+Add real-time web functionality easily
+
+
+11 Azure Spring Apps
+A fully managed Spring Cloud service, built and operated with Pivotal
+
+
+12 Azure Web PubSub
+Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern
+
+
+13 Microsoft Playwright Testing (Preview)
+Run end-to-end Playwright tests at scale
+
+
+14 Notification Hubs
+Send push notifications to any platform from any back end
+
+
+15 Static Web Apps
+A modern web app service that offers streamlined full-stack development from source code to global high availability
+
+
+16 Web App for Containers
+Easily deploy and run containerized web apps that scale with your business
