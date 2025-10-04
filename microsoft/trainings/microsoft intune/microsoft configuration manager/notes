@@ -1,5 +1,944 @@
-As of 01 October 2025, 
+As of 024 October 2025, 
 
 0 courses
-1 learningpaths
-7 modules
+24 learningpaths
+70 modules
+
+
+Learning Path
+
+MD-102 Explore endpoint management
+
+2 hr 5 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Enhance security operations by using Microsoft Security Copilot
+
+7 hr 27 min
+Microsoft Defender
+Student
+Beginner
+
+
+Learning Path
+
+MD-102 Configure profiles for user and devices
+
+1 hr 3 min
+Windows
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-102 Execute device enrollment
+
+1 hr 19 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-102 Examine application management
+
+1 hr 42 min
+Windows
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-102 Manage authentication and compliance
+
+1 hr 37 min
+Windows
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-102 Deploy using on-premises based tools
+
+1 hr 33 min
+Windows
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-102 Manage endpoint security
+
+2 hr 34 min
+Windows
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-102 Deploy using cloud based tools
+
+3 hr 12 min
+Windows
+Administrator
+Intermediate
+
+
+Learning Path
+
+SC-200: Mitigate threats using Microsoft Defender for Endpoint
+
+5 hr 49 min
+Microsoft Intune
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+Enhance endpoint security with Microsoft Intune and Microsoft Security Copilot
+
+1 hr 46 min
+Microsoft Intune
+Administrator
+Beginner
+
+
+Learning Path
+
+MD-101 Explore modern management
+
+1 hr
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-101 Implement device enrollment
+
+1 hr 3 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-101 Configure user and device profiles
+
+54 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-101 Manage authentication and compliance
+
+1 hr 11 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-101 Manage Windows client security
+
+1 hr 11 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-101 Deploy using cloud based tools
+
+1 hr 25 min
+Microsoft Intune
+Administrator
+Intermediate
+Learning Path
+
+MD-101 Deploy using on-premises based tools
+
+1 hr 2 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-101 Explore application management
+
+1 hr 23 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-101 Manage updates and use analytics
+
+1 hr 18 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-015 Implement Windows 365 Cloud PCs
+
+1 hr 58 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Manage your education devices with Microsoft 365
+
+1 hr 25 min
+Microsoft 365
+Administrator
+Beginner
+
+
+Learning Path
+
+MD-020 Microsoft Surface administration
+
+1 hr 2 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Learning Path
+
+Modern management with Cloud-native Windows Accreditation 2025
+
+1 hr 3 min
+Microsoft Intune
+Administrator
+Beginner
+
+
+
+
+Module
+
+Describe Microsoft Security Copilot
+
+32 min
+Microsoft Entra
+Security Engineer
+Beginner
+Module
+
+Describe the core features of Microsoft Security Copilot
+
+1 hr 8 min
+Microsoft Defender
+Security Operations Analyst
+Beginner
+
+
+Module
+
+Explore the Enterprise Desktop
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Configure and manage automation using Microsoft Defender for Endpoint
+
+34 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Enroll devices using Microsoft Configuration Manager
+
+12 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Module
+
+Oversee device profiles
+
+18 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Maintain user profiles
+
+27 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Administer endpoint applications
+
+27 min
+Microsoft Edge
+Administrator
+Intermediate
+
+
+Module
+
+Deploy and update applications
+
+51 min
+Microsoft Edge
+Administrator
+Intermediate
+
+
+Module
+
+Implement device compliance
+
+28 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Execute device profiles
+
+18 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Generate inventory and compliance reports
+
+21 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Deploy Devices using Windows Autopilot
+
+41 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Implement dynamic deployment methods
+
+21 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Execute mobile application management
+
+24 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Enable organizational access
+
+21 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Manage Microsoft Defender for Endpoint
+
+37 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Deploy using Microsoft Configuration Manager
+
+28 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Explore Microsoft Intune Suite
+
+50 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Module
+
+Manage Microsoft Defender for Cloud Apps
+
+27 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Plan a transition to modern endpoint management
+
+39 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Deploy using the Microsoft Deployment Toolkit
+
+33 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Manage Microsoft Defender in Windows client
+
+42 min
+Windows
+Administrator
+Intermediate
+
+Module
+
+Deploy device data protection
+
+48 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Protect identities in Microsoft Entra ID
+
+27 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Assess deployment readiness
+
+32 min
+Windows
+Administrator
+Intermediate
+
+
+Module
+
+Discover Microsoft Intune essentials
+
+30 min
+Microsoft Intune
+Administrator
+Beginner
+
+
+Module
+
+Enroll devices using Microsoft Endpoint Configuration Manager
+
+11 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Optimize Microsoft Intune for Microsoft Security Copilot Integration
+
+47 min
+Microsoft Intune
+Administrator
+Beginner
+
+
+Module
+
+Enroll devices using Microsoft Intune
+
+39 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+
+Module
+
+Manage device authentication
+
+13 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Explore Microsoft Entra ID
+
+18 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage user profiles
+
+25 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage identities in Microsoft Entra ID
+
+18 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage scoped administration and delegation with Microsoft Intune and Intune for Education
+
+9 min
+Microsoft 365
+Administrator
+Beginner
+
+
+Module
+
+Examine the enterprise desktop
+
+24 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Plan a transition to modern management
+
+26 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Implement mobile application management
+
+18 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Update Windows client
+
+20 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Deploy new devices
+
+25 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Deploy using Endpoint Configuration Manager
+
+20 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Protect identities in Microsoft Entra ID
+
+21 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Enable organizational access
+
+15 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Monitor device profiles
+
+14 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Generate inventory and compliance reports
+
+17 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Explore Desktop Analytics
+
+22 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage Microsoft Defender for Endpoint
+
+25 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Administer applications
+
+24 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage Cloud PCs and Virtual Desktops
+
+18 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+
+Implement device data protection
+
+23 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Implement device profiles
+
+15 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Update clients using Windows Update for Business
+
+17 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Deploy using the Microsoft Deployment Toolkit
+
+20 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Assess deployment readiness
+
+22 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Implement dynamic deployment methods
+
+16 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Implement device compliance policies
+
+18 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Explore Endpoint Analytics
+
+19 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage Microsoft Defender in Windows client
+
+23 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Secure AI in schools with Microsoft Security
+
+49 min
+Microsoft 365
+K-12 Educator
+Beginner
+
+
+Module
+
+Deploy and update applications
+
+41 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+
+
+Module
+
+Provision and deploy Windows 365 Cloud PCs
+
+33 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Examine Windows 365
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Apps in Windows 365 Cloud PCs
+
+18 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage devices used for education
+
+24 min
+Microsoft 365
+Administrator
+Beginner
+
+
+Module
+
+Explore Windows 365 Cloud PC management options
+
+38 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Deploy and enroll your education devices
+
+28 min
+Microsoft 365
+Administrator
+Beginner
+
+
+Module
+
+Deploy applications using Microsoft Intune and Intune for Education
+
+24 min
+Microsoft 365
+Administrator
+Beginner
+
+
+Module
+
+Manage Windows updates in the cloud
+
+41 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Module
+
+Device management with Microsoft Intune
+
+25 min
+Microsoft Intune
+Business Owner
+Intermediate
+
+
+Module
+
+Interactive case study: Securing endpoints and infrastructure
+
+38 min
+Microsoft Intune
+Security Engineer
+Advanced
