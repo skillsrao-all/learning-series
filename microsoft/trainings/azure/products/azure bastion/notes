@@ -1,0 +1,133 @@
+as of 04 october 2025,
+0 courses, 3 learningpaths, 5 modules (Total:8 )
+
+--
+
+Roles
+
+Administrator
+
+Auditor
+
+Business User
+
+Developer
+
+Network Engineer
+
+Security Engineer
+
+Solution Architect
+
+Student
+
+Support Engineer
+
+Technology Manager
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+
+Subjects
+
+Security
+
+Cloud security
+
+Identity and access
+
+
+Technical infrastructure
+
+Cloud computing
+
+Networking
+
+Virtual machine
+
+--
+Learning Path
+
+AZ-104: Configure and manage virtual networks for Azure administrators
+
+4 hr 24 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+Introduction to Secure Application Delivery with Azure network security
+
+2 hr 15 min
+Azure
+Business User
+Beginner
+
+
+Learning Path
+
+Azure Support Engineer for Connectivity Specialty
+
+6 hr 9 min
+Azure
+Administrator
+Intermediate
+
+--
+
+Module
+
+Describe core infrastructure security services in Azure
+
+29 min
+Azure
+Business User
+Beginner
+
+
+Module
+
+Introduction to Azure Bastion
+
+26 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Troubleshoot Windows Server Virtual Machines in Azure
+
+1 hr 6 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Connect to virtual machines through the Azure portal by using Azure Bastion
+
+40 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Troubleshoot connectivity issues with virtual machines in Microsoft Azure
+
+32 min
+Azure
+Administrator
+Intermediate
+
