@@ -1,5 +1,660 @@
 As of 01 October 2025, 
 
-1 courses
-21 learningpaths
-102 modules
+2 courses;  14 learningpaths; 52 modules (Tptal: 68)
+
+
+Roles
+
+Administrator
+
+Business Owner
+
+Business User
+
+Developer
+
+DevOps Engineer
+
+Functional Consultant
+
+Security Engineer
+
+Security Operations Analyst
+
+Solution Architect
+
+Student
+
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Artificial intelligence
+
+Business applications
+
+Automation
+
+Data management
+
+Data analytics
+
+Security
+
+Cloud security
+
+Threat protection
+
+Technical infrastructure
+
+Cloud computing
+
+IT management and monitoring
+
+
+Module
+
+Describe Microsoft Security Copilot
+
+32 min
+Microsoft Entra
+Security Engineer
+Beginner
+
+
+Module
+
+Describe the core features of Microsoft Security Copilot
+
+1 hr 8 min
+Microsoft Defender
+Security Operations Analyst
+Beginner
+
+
+Module
+
+Describe security capabilities of Microsoft Sentinel
+
+23 min
+Microsoft Sentinel
+Business User
+Beginner
+
+
+Learning Path
+
+Enhance security operations by using Microsoft Security Copilot
+
+7 hr 27 min
+Microsoft Defender
+Student
+Beginner
+
+
+Learning Path
+
+SC-200: Mitigate threats using Microsoft Security Copilot
+
+6 hr 43 min
+Microsoft Sentinel
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Introduction to Microsoft Sentinel
+
+29 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Query logs in Microsoft Sentinel
+
+18 min
+Microsoft Sentinel
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Create and manage Microsoft Sentinel workspaces
+
+41 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Utilize threat intelligence in Microsoft Sentinel
+
+18 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Use watchlists in Microsoft Sentinel
+
+21 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Analyze query results using KQL
+
+37 min
+Microsoft Sentinel
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+
+2 hr 10 min
+Azure
+Security Operations Analyst
+Intermediate
+
+Module
+
+Build multi-table statements using KQL
+
+21 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Integrate Microsoft Defender XDR with Microsoft Sentinel
+
+1 hr 28 min
+Microsoft Sentinel
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect Microsoft services to Microsoft Sentinel
+
+26 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Work with data in Microsoft Sentinel using Kusto Query Language
+
+36 min
+Microsoft Sentinel
+Security Operations Analyst
+Intermediate
+
+
+Course
+
+Microsoft Security Operations Analyst
+
+4 Days
+Microsoft Defender
+Security Engineer
+Intermediate
+
+Module
+
+Automation in Microsoft Sentinel
+
+15 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Construct KQL statements for Microsoft Sentinel
+
+36 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Security incident management in Microsoft Sentinel
+
+1 hr 20 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect threat indicators to Microsoft Sentinel
+
+33 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Design solutions that align with the Microsoft Cybersecurity Reference Architecture (MCRA) and Microsoft cloud security benchmark (MCSB)
+
+43 min
+Azure
+Security Engineer
+Advanced
+
+
+Learning Path
+
+SC-200: Configure your Microsoft Sentinel environment
+
+3 hr 35 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+SC-200: Perform threat hunting in Microsoft Sentinel
+
+2 hr 14 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+SC-200: Connect logs to Microsoft Sentinel
+
+3 hr 4 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect Common Event Format logs to Microsoft Sentinel
+
+20 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect Microsoft Defender XDR to Microsoft Sentinel
+
+29 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+AZ-500: Secure Azure using Microsoft Defender for Cloud and Microsoft Sentinel
+
+7 hr 34 min
+Azure
+Security Engineer
+Intermediate
+
+
+Module
+
+Threat hunting with Microsoft Sentinel
+
+1 hr 5 min
+Azure
+Solution Architect
+Intermediate
+
+
+Module
+
+Configure and manage security monitoring and automation solutions
+
+1 hr 12 min
+Azure
+Administrator
+Intermediate
+
+
+
+Module
+
+Hunt for threats using notebooks in Microsoft Sentinel
+
+31 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Use Search jobs in Microsoft Sentinel
+
+15 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Threat detection with Microsoft Sentinel analytics
+
+1 hr 10 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect syslog data sources to Microsoft Sentinel
+
+28 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Manage content in Microsoft Sentinel
+
+15 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Identify threats with Behavioral Analytics
+
+30 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect Windows hosts to Microsoft Sentinel
+
+26 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Query, visualize, and monitor data in Microsoft Sentinel
+
+48 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Threat response with Microsoft Sentinel playbooks
+
+1 hr 20 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect data to Microsoft Sentinel using data connectors
+
+22 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+SC-100: Design solutions that align with security best practices and priorities
+
+3 hr 51 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design security solutions that align with the Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF)
+
+1 hr 23 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Data normalization in Microsoft Sentinel
+
+56 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Introduction to Zero Trust and best practice frameworks
+
+42 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Explain threat hunting concepts in Microsoft Sentinel
+
+23 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+SC-200: Create detections and perform investigations using Microsoft Sentinel
+
+6 hr 34 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Design a resiliency strategy for ransomware and other attacks based on Microsoft Security Best Practices
+
+1 hr 3 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for identity and access management
+
+1 hr 10 min
+Azure
+Security Engineer
+Advanced
+
+
+Learning Path
+
+SC-100: Design security solutions for applications and data
+
+4 hr 10 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for securing privileged access
+
+1 hr 28 min
+Azure
+Security Engineer
+Advanced
+
+
+Learning Path
+
+SC-100: Design security operations, identity, and compliance capabilities
+
+6 hr 23 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for security operations
+
+1 hr 21 min
+Azure
+Security Engineer
+Advanced
+
+
+Learning Path
+
+SC-100: Design security solutions for infrastructure
+
+6 hr 4 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for securing Microsoft 365
+
+1 hr 2 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for security posture management in hybrid and multicloud environments
+
+1 hr 35 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for network security
+
+51 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for regulatory compliance
+
+1 hr 8 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for securing server and client endpoints
+
+1 hr 40 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for securing applications
+
+1 hr 29 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for securing an organization's data
+
+1 hr 1 min
+Azure
+Security Engineer
+Advanced
