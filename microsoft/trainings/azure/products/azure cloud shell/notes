@@ -1,0 +1,844 @@
+as of 04 october 2025, 
+0 courses, 18 learningpaths, 59 modules (Total: 77)
+
+Roles
+
+Administrator
+
+Data Engineer
+
+Developer
+
+Functional Consultant
+
+Security Operations Analyst
+
+Solution Architect
+
+Student
+
+Technology Manager
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Application development
+
+DevOps
+
+
+Business applications
+
+Device management
+
+Knowledge management
+
+
+Data management
+
+Data engineering
+
+
+Security
+
+Cloud security
+
+Identity and access
+
+Threat protection
+
+
+Technical infrastructure
+
+Architecture
+
+Cloud computing
+
+IT management and monitoring
+
+Migration
+
+Networking
+
+Storage
+
+Virtual machine
+
+--
+
+
+Learning Path
+
+Get started with Windows PowerShell
+
+2 hr 13 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Store data in Azure
+
+2 hr 35 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Create serverless applications
+
+5 hr 25 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Maintain system administration tasks in Windows PowerShell
+
+2 hr 3 min
+Azure
+Administrator
+Intermediate
+Learning Path
+
+Implement Windows Server IaaS VM Identity
+
+2 hr 28 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Deploy a website with Azure virtual machines
+
+4 hr 34 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Implement Windows Server IaaS VM networking
+
+2 hr 47 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Work with the Windows PowerShell pipeline
+
+3 hr 30 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Deploy and configure Windows Server IaaS Virtual Machine
+
+3 hr 34 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Monitor and maintain Windows Server IaaS Virtual Machine
+
+4 hr 7 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Implement Windows Server hybrid cloud management, monitoring, and security
+
+2 hr 55 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Implement a Windows Server hybrid cloud infrastructure
+
+7 hr 10 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Use variables, arrays, and hash tables in Windows PowerShell scripts
+
+1 hr 12 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Manage Microsoft 365 services by using Windows PowerShell
+
+3 hr 8 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Create and manage background jobs and scheduled jobs in Windows PowerShell
+
+1 hr 25 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Implement Windows Server IaaS VM Security
+
+3 hr 54 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Manage cloud resources by using Windows PowerShell
+
+2 hr 5 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Query management information by using Common Information Model and Windows Management Instrumentation
+
+1 hr 39 min
+Azure
+Administrator
+Intermediate
+
+-----
+
+Module
+
+Introduction to Azure Cloud Shell
+
+20 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Administer and manage Windows Server IaaS Virtual Machine remotely
+
+44 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage persistent connections to remote computers by using Windows PowerShell sessions
+
+34 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Audit the security of Windows Server IaaS Virtual Machines
+
+45 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Automate the configuration of Windows Server IaaS Virtual Machines
+
+49 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Customize Windows Server IaaS Virtual Machine images
+
+50 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Implement scale and high availability with Windows Server VM
+
+58 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Implement Windows Server IaaS VM IP addressing and routing
+
+53 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Implement hybrid identity with Windows Server
+
+1 hr 49 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Implement DNS for Windows Server IaaS VMs
+
+50 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Implement hybrid backup and recovery with Windows Server IaaS
+
+1 hr 1 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Upgrade and migrate Windows Server IaaS virtual machines
+
+53 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Understand Windows Server IaaS Virtual Machine cost management
+
+38 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Understand the command syntax in Windows PowerShell
+
+28 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Monitor Windows Server IaaS Virtual Machines and hybrid instances
+
+46 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Implement Windows Server IaaS VM network security
+
+1 hr 4 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Review CIM and WMI
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Review Windows PowerShell
+
+55 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Find commands and Get-Help in Windows PowerShell
+
+50 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Build and run a web application with the MEAN stack on an Azure Linux virtual machine
+
+42 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Manage hybrid workloads with Azure Arc
+
+44 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Deploy and manage Azure IaaS Active Directory domain controllers in Azure
+
+39 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Azure updates
+
+40 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Active Directory Domain Services using PowerShell cmdlets
+
+40 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Implement a hybrid file server infrastructure
+
+1 hr 32 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Windows Server settings using PowerShell cmdlets
+
+28 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Plan and deploy Windows Server IaaS Virtual Machines
+
+1 hr 2 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Implement hybrid network infrastructure
+
+1 hr 9 min
+Azure
+Administrator
+Intermediate
+
+Module
+
+Configure BitLocker disk encryption for Windows IaaS Virtual Machines
+
+35 min
+Azure
+Administrator
+Intermediate
+
+Module
+
+Migrate on-premises Windows Server instances to Azure IaaS virtual machines
+
+41 min
+Azure
+Administrator
+Intermediate
+
+Module
+
+Work with scripting constructs in Windows PowerShell
+
+39 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage settings for a local Windows machine using PowerShell cmdlets
+
+27 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage network service settings for Windows devices using PowerShell cmdlets
+
+28 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Exchange Online by using Windows PowerShell
+
+43 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Implement change tracking and file integrity monitoring for Windows IaaS VMs
+
+50 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Create and run scripts by using Windows PowerShell
+
+48 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Understand the Windows PowerShell pipeline
+
+30 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Enumerate objects in the pipeline
+
+23 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Send and pass data as output from the pipeline
+
+28 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Select, sort, and measure objects using the pipeline
+
+42 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Use functions and modules in Windows PowerShell scripts
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Filter objects out of the pipeline
+
+37 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage single and multiple computers by using Windows PowerShell remoting
+
+1 hr 5 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Import data in different formats for use in scripts by using Windows PowerShell cmdlets
+
+28 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Use PowerShell drives in PowerShell
+
+49 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Pass pipeline objects
+
+50 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Work with arrays and hash tables in Windows PowerShell scripts
+
+35 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Create and manage background jobs using Windows PowerShell
+
+37 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage users, groups, and licenses in Microsoft Entra ID by using Windows PowerShell
+
+1 hr 12 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Connect with data stores using PowerShell providers
+
+24 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Review the features and tools for Azure Cloud Shell
+
+35 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Create and manage scheduled jobs using Windows PowerShell
+
+48 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Review Azure PowerShell module
+
+45 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage variables in Windows PowerShell scripts
+
+37 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Azure resources with Windows PowerShell
+
+45 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Query and manipulate repository objects by using CIM and WMI methods
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Query configuration information by using CIM and WMI
+
+41 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Investigate threats using audit in Microsoft Defender XDR and Microsoft Purview (Premium)
+
+46 min
+Microsoft Purview
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Automate Deployment of SAP on Azure
+
+42 min
+Azure
+Administrator
+Advanced
+
+
