@@ -48,40 +48,41 @@ Subjects
 Application development
 
 Artificial intelligence
+- Classification and analysis
 
 Business applications
 
-Automation
+- Automation
 
-Collaboration
+- Collaboration
 
-Communication
+- Communication
 
-Custom app development
+- Custom app development
 
-Field service management
+- Field service management
 
-Marketing and sales
+- Marketing and sales
 
-Process and workflow
+- Process and workflow
 
-Productivity
+- Productivity
 
 Data management
 
-Databases
+- Databases
 
 Security
 
-Identity and access
+- Identity and access
 
-Information protection and governance
+- Information protection and governance
 
 Technical infrastructure
 
-Architecture
+- Architecture
 
-Cloud computing
+- Cloud computing
 
 
 
@@ -441,5 +442,1403 @@ Describe the business value of Microsoft Power Platform
 
 1 hr 46 min
 Office 365
+Business Owner
+Beginner
+
+Module
+
+Get started with Power Automate
+
+55 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Get started with Microsoft Dataverse for Teams
+
+21 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Build your first workflow with Power Automate and Dataverse for Teams
+
+25 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Enhance public sector services with generative AI
+
+1 hr
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Build approval flows with Power Automate
+
+44 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Build flows to manage user information
+
+23 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Optimize your business process with process advisor
+
+26 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Build your first Power Automate for desktop flow
+
+24 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Manage solutions in Power Apps and Power Automate
+
+52 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Power Automate's deep integration across multiple data sources
+
+49 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Use the Admin center to manage environments and data policies in Power Automate
+
+36 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Introduction to expressions in Power Automate
+
+37 min
+Microsoft Power Platform
+Functional Consultant
+Intermediate
+
+
+Module
+
+Best practices for error handling in Power Automate flows
+
+17 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Use AI Builder in Power Automate
+
+37 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Define input and output parameters in Power Automate
+
+29 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Connect a cloud flow to desktop flows in Power Automate for desktop
+
+25 min
+Microsoft Power Platform
+Business User
+Intermediate
+
+
+Module
+
+Configure flow control in Power Automate for desktop
+
+15 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Generate Power Automate for desktop flows by recording
+
+35 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Integrate desktop flows with Outlook connector in Power Automate for desktop
+
+23 min
+Microsoft Power Platform
+Business User
+Intermediate
+
+
+Module
+
+Configure exception and error handling in Power Automate for desktop
+
+30 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Take your first steps with Power Automate for desktop
+
+37 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Use AI Builder to process invoice forms in Power Automate
+
+16 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Business process mapping for Dynamics 365
+
+53 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Adjust process behavior using conditional actions with Power Automate for desktop
+
+40 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Share a cloud flow with Power Automate
+
+50 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Use the Teams connector in Power Automate
+
+17 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Configure custom connectors with authenticated APIs in Microsoft Power Platform
+
+50 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Power Automate for desktop development essentials
+
+30 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Automate repetitive tasks using loops in Power Automate for desktop
+
+45 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Handle variables in Power Automate for desktop
+
+55 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+Module
+
+Introduction to Power Automate process mining
+
+39 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Run a Power Automate for desktop flow in unattended mode
+
+14 min
+Microsoft Power Platform
+Business User
+Intermediate
+
+
+Module
+
+Excel automation in Power Automate for desktop
+
+52 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Get started with custom connectors in Microsoft Power Platform
+
+45 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Configure policy templates for custom connectors in Microsoft Power Platform
+
+35 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Use Dataverse triggers and actions in Power Automate
+
+1 hr 7 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Create Microsoft Power Platform OpenAPI custom connectors
+
+30 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Scripting in Power Automate for desktop
+
+33 min
+Microsoft Power Platform
+Developer
+Advanced
+
+
+Module
+
+Overview of HTTP connectors in Power Automate
+
+20 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Troubleshoot slow-running flows in Power Automate
+
+23 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Web automation in Power Automate for desktop
+
+1 hr 6 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Automating email handling in Power Automate for desktop
+
+46 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Get started with AI Builder
+
+30 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Work with requirements for Microsoft Power Platform and Dynamics 365
+
+23 min
+Dynamics 365
+Solution Architect
+Advanced
+
+
+Module
+
+Explore Power Automate architecture
+
+34 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Solution Architect series: Power Platform architecture
+
+54 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Introduction to becoming a business applications professional
+
+56 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Process custom documents with AI Builder
+
+32 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Email with Power Automate
+
+30 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Create a Dataverse table for the machine ordering app - Online workshop
+
+1 hr 33 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Automate an approval process in Power Automate
+
+28 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Digitally transform with Dynamics 365
+
+1 hr 23 min
+Dynamics 365
+Business User
+Beginner
+
+
+Module
+
+Integrate a Power Apps app with Power Automate - Online Workshop
+
+1 hr 17 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Hyperautomation with insights from process mining
+
+30 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Solution architect series: Explore robotic process automation
+
+27 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Manage process mining projects
+
+43 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Introduction to Microsoft Power Platform security and governance
+
+47 min
+Microsoft Power Platform
+Administrator
+Intermediate
+
+
+Module
+
+Use Power Automate for desktop to interact with windows and applications
+
+18 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Automate system, workstation, and services actions in Power Automate for desktop
+
+22 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Extend Dataverse with Power Automate
+
+36 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Install required software for Power Automate: Automation - Online workshop
+
+46 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Solution Architect series: Testing and go-live
+
+22 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Solution Architect series: Evaluate Power Platform analytics and AI
+
+41 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Best practices for email in SharePoint and Power Automate
+
+20 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Automate the processing of documents with the AI Builder prepackaged solution
+
+23 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Control file and folder handling in Power Automate for desktop
+
+53 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Create your first desktop flow - Online workshop
+
+39 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Governance for process mining
+
+20 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Communicate using message boxes in Power Automate for desktop flows
+
+17 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Recognize text with AI Builder
+
+34 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Discover the Dynamics 365 landscape
+
+1 hr 12 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Determine the implementation approach for your Dynamics 365 project
+
+1 hr 16 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Database handling in Power Automate for desktop
+
+24 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Combine Power Automate desktop and cloud flows
+
+42 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Text manipulation in Power Automate for desktop
+
+27 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Active Directory handling in Power Automate for desktop
+
+32 min
+Microsoft Power Platform
+Administrator
+Advanced
+
+
+Module
+
+Get to know the project team for Dynamics 365 implementations
+
+1 hr 2 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Use input and output variables - Online workshop
+
+28 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Simulate mouse and keyboard actions by using Power Automate for desktop
+
+26 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Import and export solutions with cloud flows
+
+48 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Guided Project - Create document process model and email approval with AI Builder and Power Automate
+
+53 min
+Microsoft Power Platform
+Business User
+Intermediate
+
+
+Module
+
+Challenge project - Build applications and automation solutions
+
+3 hr 27 min
+Microsoft Power Platform
+Functional Consultant
+Intermediate
+
+
+Module
+
+OCR technologies in Power Automate for desktop
+
+22 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Certify and create an open-source Microsoft Power Platform custom connector
+
+26 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Introduction to Copilot in Microsoft Power Platform
+
+39 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Use Power Automate to increase productivity
+
+58 min
+Microsoft Power Platform
+K-12 Educator
+Beginner
+
+
+Module
+
+Extract invoice data with AI Builder’s prebuilt model
+
+10 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Use Copilot in Power Automate
+
+45 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Present Business Applications designs to stakeholders
+
+1 hr 33 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Set up low-code plug-ins
+
+47 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Custom connector life cycle management in Microsoft Power Platform
+
+39 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Plan and manage your Microsoft Power Platform environment
+
+58 min
+Microsoft Power Platform
+Administrator
+Intermediate
+
+
+Module
+
+Create triggers for custom connectors for Microsoft Power Platform
+
+56 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Use process mining in Power Automate web portal
+
+44 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Implementation recommendations for Microsoft Power Platform environments
+
+54 min
+Microsoft Power Platform
+Administrator
+Intermediate
+
+
+Module
+
+Get started with Microsoft Power Platform Center of Excellence
+
+53 min
+Microsoft Power Platform
+Administrator
+Intermediate
+
+
+Module
+
+Use Outlook email to trigger desktop flows and pass inputs - Online workshop
+
+32 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Create Power BI reports with Power Automate Process Mining
+
+22 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Challenge Project - Build a booking requests app with Power Apps and Power Automate
+
+1 hr 7 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Use custom code in custom connectors for Microsoft Power Platform
+
+38 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Evaluate requirements for Dynamics 365 projects
+
+1 hr 2 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Integrate with cloud flows - Online workshop
+
+1 hr 4 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Get started with the Power Automate Process Mining desktop app
+
+41 min
+Microsoft Power Platform
+Business Analyst
+Beginner
+
+
+Module
+
+Design for accessibility in Dynamics 365
+
+46 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Use common low-code plug-in scenarios
+
+59 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Integrate with Microsoft Teams to get approvals - Online workshop
+
+29 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Test your Dynamics 365 implementation
+
+1 hr 10 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Use templates to enforce governance policies in Microsoft Power Platform
+
+41 min
+Microsoft Power Platform
+Administrator
+Intermediate
+
+
+Module
+
+Analyze processes with the Power Automate Process Mining desktop app
+
+39 min
+Microsoft Power Platform
+Business Analyst
+Beginner
+
+
+Module
+
+Build flows for a real estate solution using Copilot in Power Automate
+
+26 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Manage environmental changes in Microsoft Power Platform
+
+55 min
+Microsoft Power Platform
+Administrator
+Intermediate
+
+
+Module
+
+Document your Dynamics 365 solution for the customer
+
+45 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Streamline SharePoint processes with Power Automate
+
+49 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Get to know your Dynamics 365 customers
+
+1 hr 35 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Application lifecycle management for Dynamics 365
+
+1 hr 37 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Create AI Builder prompts using your own Dataverse data
+
+34 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Create subflows and web automation with Power Automate for desktop - Online workshop
+
+46 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Use text generation in AI Builder
+
+40 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Identify the language of text with AI Builder
+
+28 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Design the Dynamics 365 deployment
+
+1 hr 23 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Analyze the sentiment of text with AI Builder
+
+28 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Manage models in AI Builder
+
+17 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Improve SAP seller productivity with Microsoft Teams and Power Platform
+
+38 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Transform and load event log data for process mining
+
+43 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Detect objects with AI Builder
+
+25 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Identify key phrases with AI Builder
+
+25 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Enhance productivity with Power Automate and the Office 365 Outlook Connector
+
+49 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Process receipts with AI Builder
+
+15 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Extract information from business cards with AI Builder
+
+41 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Extract event log data for process mining
+
+59 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Get started with AI Builder licensing
+
+40 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Extract data from passports and US driver licenses
+
+22 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Apply AI Builder Text Recognition in the transportation industry
+
+1 hr 48 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Work with solution-aware cloud flows in Power Automate
+
+45 min
+Microsoft Power Platform
+Functional Consultant
+Intermediate
+
+
+Module
+
+Approvals Kit in Power Automate workshop overview
+
+1 hr 1 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Enhance communication using Power Automate and the Office 365 Users Connector
+
+49 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Describe Microsoft Power Platform administration and governance
+
+46 min
+Microsoft Power Platform
+Business Owner
+Beginner
+
+
+Module
+
+Identify Microsoft Power Automate components
+
+1 hr 4 min
+Microsoft Power Platform
+Business Owner
+Beginner
+
+
+Module
+
+Build a Microsoft Power Automate flow
+
+1 hr 11 min
+Microsoft Power Platform
+Business Owner
+Beginner
+
+
+Module
+
+Describe the business value of Microsoft Power Platform services
+
+1 hr 4 min
+Microsoft Power Platform
 Business Owner
 Beginner
