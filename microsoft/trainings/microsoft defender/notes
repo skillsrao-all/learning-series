@@ -1,5 +1,1332 @@
 As of 01 October 2025, 
 
-1 courses
-21 learningpaths
-102 modules
+1 courses; 21 learningpaths; 102 modules (Total: 142)
+
+
+Roles
+
+Administrator
+
+AI Engineer
+
+App Maker
+
+Business Analyst
+
+Business Owner
+
+Business User
+
+Data Analyst
+
+Data Engineer
+
+Database Administrator
+
+Developer
+
+DevOps Engineer
+
+Functional Consultant
+
+Higher Education Educator
+
+K-12 Educator
+
+Network Engineer
+
+Risk Practitioner
+
+School Leader
+
+Security Engineer
+
+Security Operations Analyst
+
+Service Adoption Specialist
+
+Solution Architect
+
+Startup Founder
+
+Student
+
+Technology Manager
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Application development
+
+Artificial intelligence
+
+Business applications
+
+Data management
+
+Security
+
+Cloud security
+
+Compliance
+
+Identity and access
+
+Information protection and governance
+
+Insider risk
+
+Threat protection
+
+Technical infrastructure
+
+
+
+Course
+
+Microsoft Security Operations Analyst
+
+4 Days
+Microsoft Defender
+Security Engineer
+Intermediate
+
+
+Learning Path
+
+SC-200: Mitigate threats using Microsoft Defender XDR
+
+5 hr 35 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+Enhance security operations by using Microsoft Security Copilot
+
+7 hr 27 min
+Microsoft Defender
+Student
+Beginner
+
+
+Learning Path
+
+SC-200: Mitigate threats using Microsoft Security Copilot
+
+6 hr 43 min
+Microsoft Sentinel
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+SC-200: Mitigate threats using Microsoft Purview
+
+4 hr 2 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+SC-200: Mitigate threats using Microsoft Defender for Cloud
+
+4 hr 17 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+SC-200: Mitigate threats using Microsoft Defender for Endpoint
+
+5 hr 49 min
+Microsoft Intune
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+SC-200: Configure your Microsoft Sentinel environment
+
+3 hr 35 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+AZ-500: Secure Azure using Microsoft Defender for Cloud and Microsoft Sentinel
+
+7 hr 34 min
+Azure
+Security Engineer
+Intermediate
+
+
+Learning Path
+
+SC-100: Design solutions that align with security best practices and priorities
+
+3 hr 51 min
+Azure
+Security Engineer
+Advanced
+
+
+Learning Path
+
+SC-200: Create detections and perform investigations using Microsoft Sentinel
+
+6 hr 34 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+Defend against cyberthreats with Microsoft Defender XDR
+
+4 hr 41 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+Defend against threats with Microsoft 365
+
+3 hr 9 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Learning Path
+
+SC-100: Design security solutions for applications and data
+
+4 hr 10 min
+Azure
+Security Engineer
+Advanced
+
+
+Learning Path
+
+SC-100: Design security operations, identity, and compliance capabilities
+
+6 hr 23 min
+Azure
+Security Engineer
+Advanced
+
+
+Learning Path
+
+SC-100: Design security solutions for infrastructure
+
+6 hr 4 min
+Azure
+Security Engineer
+Advanced
+
+
+Learning Path
+
+Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls
+
+10 hr 17 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Develop an instrumentation strategy
+
+4 hr 48 min
+Azure
+DevOps Engineer
+Beginner
+
+
+Learning Path
+
+Prepare to teach SC-900 Microsoft Security, Compliance, and Identity Fundamentals in academic programs
+
+3 hr 49 min
+Microsoft Defender
+Higher Education Educator
+Beginner
+
+
+Learning Path
+
+Perform basic Azure Management Tasks (Security and Monitoring)
+
+5 hr 5 min
+Azure
+Security Engineer
+Intermediate
+
+
+Learning Path
+
+Deploy Defender for IoT for OT monitoring
+
+3 hr
+Microsoft Defender
+Solution Architect
+Intermediate
+
+
+Learning Path
+
+Prepare to teach SC-400 Microsoft Information Protection Administrator
+
+4 hr 2 min
+Microsoft Defender
+Higher Education Educator
+Beginner
+
+
+
+Module
+
+Describe Microsoft Security Copilot
+
+32 min
+Microsoft Entra
+Security Engineer
+Beginner
+
+
+Module
+
+Describe the core features of Microsoft Security Copilot
+
+1 hr 8 min
+Microsoft Defender
+Security Operations Analyst
+Beginner
+
+
+Module
+
+Describe the embedded experiences of Microsoft Security Copilot
+
+53 min
+Microsoft Copilot
+Security Engineer
+Beginner
+
+
+Module
+
+Explore use cases of Microsoft Security Copilot
+
+3 hr 19 min
+Microsoft Copilot
+Security Engineer
+Beginner
+
+
+Module
+
+Secure your cloud apps and services with Microsoft Defender for Cloud Apps
+
+1 hr 9 min
+Microsoft 365
+Administrator
+Beginner
+
+
+Module
+
+Introduction to Microsoft Defender XDR threat protection
+
+28 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Mitigate incidents using Microsoft Defender
+
+1 hr 11 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Remediate risks with Microsoft Defender for Office 365
+
+49 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Safeguard your environment with Microsoft Defender for Identity
+
+1 hr 8 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Describe threat protection with Microsoft Defender XDR
+
+50 min
+Microsoft Defender
+Business User
+Beginner
+
+
+Module
+
+Introduction to Microsoft Defender for Endpoint
+
+22 min
+Microsoft 365
+Security Operations Analyst
+Beginner
+
+
+Module
+
+Describe the security management capabilities in Azure
+
+24 min
+Microsoft Defender
+Business User
+Beginner
+
+
+Module
+
+Deploy the Microsoft Defender for Endpoint environment
+
+46 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Configure for alerts and detections in Microsoft Defender for Endpoint
+
+32 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Configure and manage automation using Microsoft Defender for Endpoint
+
+34 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Perform device investigations in Microsoft Defender for Endpoint
+
+35 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Foundations of a modern public sector security operations center
+
+59 min
+Advanced Threat Analytics
+School Leader
+Intermediate
+
+
+Module
+
+Defend against Cyberthreats with Microsoft Defender XDR lab exercises
+
+1 hr 3 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Use a framework to identify threats and find ways to reduce or eliminate risk
+
+57 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Get started with FinOps
+
+20 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Protect against threats with Microsoft Defender for Endpoint
+
+1 hr 12 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Implement Windows security enhancements with Microsoft Defender for Endpoint
+
+31 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Utilize Vulnerability Management in Microsoft Defender for Endpoint
+
+28 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Utilize threat intelligence in Microsoft Sentinel
+
+18 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Perform actions on a device using Microsoft Defender for Endpoint
+
+35 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Perform evidence and entities investigations using Microsoft Defender for Endpoint
+
+36 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Prioritize your issues and apply security controls
+
+14 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Analyze query results using KQL
+
+37 min
+Microsoft Sentinel
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Build multi-table statements using KQL
+
+21 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect Azure assets to Microsoft Defender for Cloud
+
+35 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Integrate Microsoft Defender XDR with Microsoft Sentinel
+
+1 hr 28 min
+Microsoft Sentinel
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect Microsoft services to Microsoft Sentinel
+
+26 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Use recommended tools to create a data-flow diagram
+
+18 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Automation in Microsoft Sentinel
+
+15 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Construct KQL statements for Microsoft Sentinel
+
+36 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Introduction to Microsoft Defender for Office 365
+
+32 min
+Microsoft 365
+Security Operations Analyst
+Beginner
+
+
+Module
+
+Connect non-Azure resources to Microsoft Defender for Cloud
+
+44 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect threat indicators to Microsoft Sentinel
+
+33 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Manage your cloud security posture management​
+
+21 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Design solutions that align with the Microsoft Cybersecurity Reference Architecture (MCRA) and Microsoft cloud security benchmark (MCSB)
+
+43 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Explain cloud workload protections in Microsoft Defender for Cloud
+
+54 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Plan for cloud workload protections using Microsoft Defender for Cloud
+
+51 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Connect Microsoft Defender XDR to Microsoft Sentinel
+
+29 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Remediate security alerts using Microsoft Defender for Cloud
+
+52 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Investigate and respond to Microsoft Purview Data Loss Prevention alerts
+
+1 hr 11 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Manage security posture by using Microsoft Defender for Cloud
+
+1 hr 5 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Configure and manage threat protection by using Microsoft Defender for Cloud
+
+3 hr 20 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Approach your data-flow diagram with the right threat model focus
+
+8 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Plan and implement advanced security for compute
+
+1 hr 22 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Connect data to Microsoft Sentinel using data connectors
+
+22 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Design security solutions that align with the Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF)
+
+1 hr 23 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Introduction to Zero Trust and best practice frameworks
+
+42 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Explain threat hunting concepts in Microsoft Sentinel
+
+23 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Introduction to threat modeling
+
+27 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Provide context with the right depth layer
+
+26 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Design a resiliency strategy for ransomware and other attacks based on Microsoft Security Best Practices
+
+1 hr 3 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Create a threat model using data-flow diagram elements
+
+42 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Microsoft Learn for Educators Course Preparation
+
+17 min
+Microsoft Defender
+Higher Education Educator
+Beginner
+
+
+Module
+
+Introduction to Microsoft Learn for Educators program
+
+33 min
+Microsoft Defender
+Higher Education Educator
+Beginner
+
+
+Module
+
+Introduction to Microsoft Defender XDR
+
+20 min
+Microsoft 365
+Security Operations Analyst
+Beginner
+
+
+Module
+
+Onboard to Microsoft Learn for Educators program
+
+40 min
+Microsoft Defender
+Higher Education Educator
+Beginner
+
+
+Module
+
+Microsoft Learn for Educators course planning
+
+22 min
+Microsoft Defender
+Higher Education Educator
+Beginner
+
+
+Module
+
+Design solutions for identity and access management
+
+1 hr 10 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for securing privileged access
+
+1 hr 28 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for security operations
+
+1 hr 21 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Adopt FinOps on Azure
+
+2 hr 59 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Design solutions for securing Microsoft 365
+
+1 hr 2 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for security posture management in hybrid and multicloud environments
+
+1 hr 35 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for network security
+
+51 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for regulatory compliance
+
+1 hr 8 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Learn best practices from Microsoft Technical Trainers
+
+26 min
+Microsoft Defender
+Higher Education Educator
+Beginner
+
+
+Module
+
+Design solutions for securing server and client endpoints
+
+1 hr 40 min
+Azure
+Security Engineer
+Advanced
+Module
+
+Design solutions for securing applications
+
+1 hr 29 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Design solutions for securing an organization's data
+
+1 hr 1 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Configure SIEM security operations using Microsoft Sentinel
+
+1 hr 30 min
+Azure
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Enable Defender for Cloud on your Azure subscription
+
+49 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Specify requirements for securing SaaS, PaaS, and IaaS services
+
+1 hr 20 min
+Azure
+Security Engineer
+Advanced
+
+
+Module
+
+Explore just-in-time virtual machine access
+
+1 hr 8 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Examine Defender for Cloud regulatory compliance standards
+
+35 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Create a Log Analytics workspace
+
+1 hr 7 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Connect an Azure SQL server using an Azure Private Endpoint using the Azure portal
+
+1 hr 17 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Configure Azure Key Vault networking settings
+
+2 hr 27 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Collect guest operating system monitoring data from Azure and hybrid virtual machines using Azure Monitor Agent
+
+1 hr 17 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Secure AI in schools with Microsoft Security
+
+49 min
+Microsoft 365
+K-12 Educator
+Beginner
+
+
+Module
+
+Secure your infrastructure with threat modeling
+
+1 hr 12 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Introduction to Microsoft Defender for IoT
+
+22 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Get tips and tricks for teaching SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+
+58 min
+Microsoft Defender
+Higher Education Educator
+Beginner
+
+
+Module
+
+Set up Microsoft Defender for Cloud
+
+4 hr 8 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Introduction to migrating from Amazon Web Services to Microsoft Azure
+
+49 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Investigate threats by using audit features in Microsoft Defender XDR and Microsoft Purview Standard
+
+55 min
+Microsoft Purview
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Investigate threats using audit in Microsoft Defender XDR and Microsoft Purview (Premium)
+
+46 min
+Microsoft Purview
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Get tips and tricks for teaching SC-400: Microsoft Information Protection Administrator
+
+1 hr 11 min
+Microsoft Defender
+Higher Education Educator
+Beginner
+
+
+Module
+
+Prepare to deploy Microsoft Defender for IoT
+
+33 min
+Microsoft Defender
+Solution Architect
+Intermediate
+
+
+Module
+
+Plan to deploy Microsoft Defender for IoT to monitor operational technology (OT) networks
+
+23 min
+Microsoft Defender
+Solution Architect
+Intermediate
+
+
+Module
+
+
+Introduction to migrating from Google Cloud to Microsoft Azure
+
+49 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Onboard your first OT sensor to Microsoft Defender for IoT
+
+16 min
+Microsoft Defender
+Technology Manager
+Intermediate
+
+
+Module
+
+Deploy a sensor to Microsoft Defender for IoT for operational technology network monitoring
+
+54 min
+Microsoft Defender
+Technology Manager
+Intermediate
+
+
+Module
+
+Fine-tune your Microsoft Defender for IoT OT sensor
+
+54 min
+Microsoft Defender
+Technology Manager
+Intermediate
+
+
+Module
+
+Describe Microsoft Security Copilot agents
+
+44 min
+Microsoft Defender
+Security Operations Analyst
+Beginner
+
+
+Module
+
+Interactive case study: Modernizing user access control and threat resilience
+
+38 min
+
+Microsoft Entra
+Security Engineer
+Advanced
+
+
+Module
+
+Interactive case study: Securing apps and data
+
+38 min
+Microsoft Defender
+Security Engineer
+Advanced
+
+
+Module
+
+Interactive case study: Securing endpoints and infrastructure
+
+38 min
+Microsoft Intune
+Security Engineer
+Advanced
