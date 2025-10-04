@@ -1,5 +1,1090 @@
 As of 01 October 2025, 
 
-0 courses
-1 learningpaths
-7 modules
+0 courses;  22 learningpaths; 81 modules [Total: 103]
+
+
+Roles
+
+Administrator
+
+App Maker
+
+Business Analyst
+
+Business Owner
+
+Business User
+
+Developer
+
+Functional Consultant
+
+Solution Architect
+
+Student
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Application development
+
+Artificial intelligence
+
+Business applications
+
+Automation
+
+Communication
+
+Custom app development
+
+Process and workflow
+
+Productivity
+
+Data management
+
+Data analytics
+
+Data modeling
+
+Data storage
+
+Data visualization
+
+Databases
+
+Security
+
+Identity and access
+
+Information protection and governance
+
+Technical infrastructure
+
+Architecture
+
+Cloud computing
+
+
+
+
+Learning Path
+
+Create apps, copilots, flows, and more with Microsoft Dataverse and Teams
+
+2 hr 26 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Learning Path
+
+Get started using Dataverse
+
+5 hr 56 min
+Dynamics 365
+Functional Consultant
+Beginner
+
+
+Learning Path
+
+Manage permissions and administration for Dataverse
+
+2 hr 39 min
+Dynamics 365
+Functional Consultant
+Intermediate
+
+
+Learning Path
+
+Create and manage canvas apps with Power Apps
+
+5 hr 41 min
+Microsoft Power Platform
+Business User
+Intermediate
+
+
+Learning Path
+
+Create a machine ordering app with Power Apps - Online Workshop
+
+5 hr 34 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Learning Path
+
+Create relationships, business rules, calculations, and rollups in Dataverse
+
+2 hr 23 min
+Dynamics 365
+Functional Consultant
+Intermediate
+
+
+Learning Path
+
+Create and Manage Automated Processes by using Power Automate
+
+3 hr 30 min
+Microsoft Power Platform
+Business User
+Intermediate
+
+
+Learning Path
+
+Visualize, import, and export Microsoft Dataverse data
+
+2 hr 21 min
+Microsoft Power Platform
+Functional Consultant
+Intermediate
+
+
+Learning Path
+
+View, troubleshoot, and improve app performance for Power Apps canvas apps
+
+2 hr 26 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Learning Path
+
+Learn the fundamentals of Dynamics 365 projects
+
+5 hr 49 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Learning Path
+
+Integrate Power Automate flows and Dataverse
+
+1 hr 43 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Learning Path
+
+Create and manage model-driven apps with Power Apps and Dataverse
+
+5 hr 54 min
+Microsoft Power Platform
+Business Analyst
+Intermediate
+
+
+Learning Path
+
+Use advanced formula techniques and custom updates in Power Platform
+
+3 hr 40 min
+Microsoft Power Platform
+Functional Consultant
+Advanced
+
+
+Learning Path
+
+Get started with Copilot for Microsoft Power Platform
+
+2 hr 37 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Learning Path
+
+Create Power Platform solutions with AI and Copilot
+
+4 hr 12 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Learning Path
+
+Implement Dynamics 365 Projects
+
+6 hr 28 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Learning Path
+
+Design Dynamics 365 Solutions
+
+4 hr 39 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Learning Path
+
+Integrate finance and operations apps with Microsoft Power Platform
+
+7 hr 41 min
+Dynamics 365
+Solution Architect
+Advanced
+
+
+Learning Path
+
+Design an accident tracking app in Power Apps
+
+1 hr 24 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Learning Path
+
+Simplify Microsoft Power Platform deployments by using pipelines
+
+1 hr 38 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Learning Path
+
+Integrate Dynamics 365 Sales with Dynamics 365 Business Central using Dataverse
+
+1 hr 42 min
+Dynamics 365
+Functional Consultant
+Intermediate
+
+
+Learning Path
+
+Manage the Microsoft Power Platform environment
+
+1 hr 29 min
+Microsoft Power PlatformModule
+
+Create reports with Power BI and Dataverse for Teams
+
+35 min
+Microsoft Teams
+Business User
+Beginner
+
+
+Module
+
+Build your first app with Power Apps and Dataverse for Teams
+
+24 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Create tables in Dataverse
+
+1 hr 27 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Publish, share, and maintain a canvas app
+
+27 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Create and manage environments in Dataverse
+
+54 min
+Dynamics 365
+Functional Consultant
+Beginner
+
+
+Module
+
+Create and manage columns within a table in Dataverse
+
+1 hr 6 min
+Dynamics 365
+Functional Consultant
+Beginner
+
+
+Module
+
+How to build your first model-driven app with Dataverse
+
+28 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Work with choices in Dataverse
+
+21 min
+Dynamics 365
+Functional Consultant
+Beginner
+
+
+Module
+
+Load/export data and create data views in Dataverse
+
+52 min
+Dynamics 365
+Functional Consultant
+Beginner
+
+
+Module
+
+Introduction to Microsoft Power Platform developer resources
+
+53 min
+Microsoft Power Platform
+Developer
+Advanced
+
+
+Module
+
+Guided Project - Create and manage canvas apps with Power Apps
+
+39 min
+Microsoft Power Platform
+Business User
+Intermediate
+
+
+Module
+
+Use Dataverse choice columns with formulas
+
+42 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Manage tables in Dataverse
+
+44 min
+Dynamics 365
+Functional Consultant
+Beginner
+
+Module
+
+Use administration options for Dataverse
+
+1 hr 4 min
+Dynamics 365
+Functional Consultant
+Intermediate
+
+
+Module
+
+Business process mapping for Dynamics 365
+
+53 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Reduce complexity in your data model with Dataverse table relationships
+
+44 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Use developer tools to extend Power Platform
+
+47 min
+Dynamics 365
+Developer
+Advanced
+
+
+Module
+
+Get started with security roles in Dataverse
+
+41 min
+Dynamics 365
+Functional Consultant
+Intermediate
+
+
+Module
+
+Introduction to extending Power Platform
+
+39 min
+Dynamics 365
+Developer
+Advanced
+
+
+Module
+
+Create a relationship between tables in Dataverse
+
+55 min
+Dynamics 365
+Functional Consultant
+Intermediate
+
+
+Module
+
+Use Microsoft Word and Excel templates with Dataverse
+
+34 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Create and define calculation or rollup columns in Dataverse
+
+44 min
+Dynamics 365
+Functional Consultant
+Intermediate
+
+
+Module
+
+Define and create business rules in Dataverse
+
+44 min
+Dynamics 365
+Functional Consultant
+Intermediate
+
+
+Module
+
+Explore Power Automate architecture
+
+34 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Introduction to becoming a business applications professional
+
+56 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Solution architect series: Explore Microsoft Copilot Studio
+
+46 min
+Microsoft Copilot
+Solution Architect
+Advanced
+
+
+Module
+
+Use Power Apps Instrumentation with Application Insights
+
+38 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Introduction to Dataverse for developers
+
+30 min
+Dynamics 365
+Developer
+Intermediate
+
+
+Module
+
+Extend plug-ins in Power Platform
+
+56 min
+Dynamics 365
+Developer
+Intermediate
+
+
+Module
+
+Solution Architect series: Explore Power Apps architecture
+
+40 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Use Power Query to load data in Dataverse
+
+29 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Automate business process flows with client script
+
+41 min
+Microsoft Power Platform
+Developer
+Advanced
+
+
+Module
+
+Guided Project - Create and manage model-driven apps with Power Apps and Dataverse
+
+1 hr 5 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Work with Dataverse Web API
+
+1 hr 51 min
+Microsoft Power Platform
+Developer
+Advanced
+
+
+Module
+
+Integrate Dataverse Azure solutions
+
+2 hr 1 min
+Microsoft Power Platform
+Developer
+Advanced
+
+
+Module
+
+Digitally transform with Dynamics 365
+
+1 hr 23 min
+Dynamics 365
+Business User
+Beginner
+
+
+Module
+
+Get started with security concepts in Dataverse
+
+54 min
+Dynamics 365
+Functional Consultant
+Intermediate
+
+
+Module
+
+Solution Architect series: Implement project governance for Power Platform and Dynamics 365
+
+28 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Extend Dataverse with Power Automate
+
+36 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Solution Architect series: Plan application lifecycle management for Power Platform
+
+39 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Perform common actions with client script in Power Platform
+
+44 min
+Microsoft Power Platform
+Functional Consultant
+Intermediate
+
+
+Module
+
+Solution Architect series: Implement integrations with Power Platform
+
+27 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Solution Architect series: Evaluate Power Platform analytics and AI
+
+41 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Solution architect series: Model data for Power Platform solutions
+
+1 hr 12 min
+Microsoft Power Platform
+Solution Architect
+Intermediate
+
+
+Module
+
+Solution architect series: Model security for Power Platform solutions
+
+58 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Discover the Dynamics 365 landscape
+
+1 hr 12 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Determine the implementation approach for your Dynamics 365 project
+
+1 hr 16 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Get to know the project team for Dynamics 365 implementations
+
+1 hr 2 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Import and export solutions with cloud flows
+
+48 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Introduction to Copilot in Microsoft Power Platform
+
+39 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Use Copilot in Power Automate
+
+45 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Present Business Applications designs to stakeholders
+
+1 hr 33 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Set up low-code plug-ins
+
+47 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Use Microsoft 365 services with model-driven apps and Microsoft Dataverse
+
+1 hr 14 min
+Dynamics 365
+Business User
+Intermediate
+
+
+Module
+
+Introduction to integrating Dataverse with Dynamics 365 Business Central
+
+46 min
+Dynamics 365
+Functional Consultant
+Intermediate
+
+
+Module
+
+Use Dataverse Organization service
+
+47 min
+Microsoft Power Platform
+Developer
+Advanced
+
+
+Module
+
+Use Copilot in Power Pages
+
+29 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Use Copilot in Power Apps
+
+44 min
+Microsoft Copilot
+App Maker
+Beginner
+
+
+Module
+
+Evaluate requirements for Dynamics 365 projects
+
+1 hr 2 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Work with extensions for finance and operations apps and Microsoft Power Platform
+
+1 hr 39 min
+Dynamics 365
+Solution Architect
+Advanced
+
+
+Module
+
+Design for accessibility in Dynamics 365
+
+46 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Use common low-code plug-in scenarios
+
+59 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Test your Dynamics 365 implementation
+
+1 hr 10 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Customize views and forms for model-driven apps
+
+28 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Harmonize business concepts between finance and operations apps and Microsoft Power Platform
+
+48 min
+Dynamics 365
+Solution Architect
+Advanced
+
+
+Module
+
+Work with tools and best practices to integrate finance and operations apps with Microsoft Power Platform
+
+1 hr 10 min
+Dynamics 365
+Solution Architect
+Advanced
+
+
+Module
+
+Document your Dynamics 365 solution for the customer
+
+45 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Get to know your Dynamics 365 customers
+
+1 hr 35 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Application lifecycle management for Dynamics 365
+
+1 hr 37 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Create AI Builder prompts using your own Dataverse data
+
+34 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Design the Dynamics 365 deployment
+
+1 hr 23 min
+Dynamics 365
+Business Analyst
+Beginner
+
+
+Module
+
+Transform a business process to a model-driven app
+
+19 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Build the Dataverse table schema for the model-driven app
+
+37 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+
+Module
+
+Link your Dataverse environment to Microsoft Fabric
+
+29 min
+Microsoft Fabric
+Administrator
+Beginner
+
+
+Module
+
+Set up pipeline environments in Microsoft Power Platform
+
+23 min
+Microsoft Power Platform
+App Maker
+Intermediate
+
+
+Module
+
+Create a pipeline in Microsoft Power Platform
+
+35 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Extend a pipeline in Microsoft Power Platform
+
+17 min
+Microsoft Power Platform
+Functional Consultant
+Intermediate
+
+
+Module
+
+Deploy a Microsoft Power Platform solution by using a service principal
+
+23 min
+Microsoft Power Platform
+Functional Consultant
+Intermediate
+
+
+Module
+
+Enhance communication using Power Automate and the Office 365 Users Connector
+
+49 min
+Microsoft Power Platform
+App Maker
+Beginner
+
+Business Owner
+Beginner
+
+
+
+
+
