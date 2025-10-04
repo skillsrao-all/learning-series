@@ -1,0 +1,206 @@
+as of 04 october 2025,
+0 courses, 7 learningpaths, 8 modules
+
+Roles
+
+Administrator
+
+Developer
+
+DevOps Engineer
+
+Security Engineer
+
+Solution Architect
+
+Student
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Business applications
+
+
+Data management
+
+Data engineering
+
+Databases
+
+
+Security
+
+Information protection and governance
+
+
+Technical infrastructure
+
+Architecture
+
+Cloud computing
+
+Containers
+
+IT management and monitoring
+
+
+
+Learning Path
+
+AZ-104: Prerequisites for Azure administrators
+
+3 hr 5 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+AZ-104: Deploy and manage Azure compute resources
+
+3 hr 33 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+Implement containerized solutions
+
+2 hr 2 min
+Azure
+Developer
+Intermediate
+
+
+Learning Path
+
+AZ-500: Secure networking
+
+3 hr 54 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Administer containers in Azure
+
+4 hr 24 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+Architect modern applications in Azure
+
+3 hr 30 min
+Azure
+Solution Architect
+Intermediate
+
+
+Learning Path
+
+Develop an instrumentation strategy
+
+4 hr 48 min
+Azure
+DevOps Engineer
+Beginner
+
+---
+
+Module
+
+Configure Azure Container Instances
+
+37 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Run container images in Azure Container Instances
+
+36 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Microsoft Azure Well-Architected Framework - Performance Efficiency
+
+1 hr 5 min
+Azure
+Solution Architect
+Intermediate
+
+
+Module
+
+Introduction to Docker containers
+
+32 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Design an Azure compute solution
+
+1 hr 1 min
+Azure
+Solution Architect
+Advanced
+
+
+Module
+
+Build and store container images with Azure Container Registry
+
+42 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Run Docker containers with Azure Container Instances
+
+55 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Use Azure Container Instances sidecar containers and private addressing
+
+1 hr 2 min
+Azure
+Administrator
+Intermediate
+
