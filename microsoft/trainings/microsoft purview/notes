@@ -1,5 +1,775 @@
-As of 01 October 2025, 
+As of 03 October 2025, 
 
-0 courses
-1 learningpaths
-7 modules
+1 courses; 14 learningpaths; 55 modules (Total: 70)
+
+Roles
+
+Administrator
+
+Auditor
+
+Business Owner
+
+Business User
+
+Data Analyst
+
+Data Engineer
+
+Developer
+
+Information Protection and Compliance Administrator
+
+K-12 Educator
+
+Privacy Manager
+
+Risk Practitioner
+
+School Leader
+
+Security Engineer
+
+Security Operations Analyst
+
+Student
+
+Technology Manager
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+
+Subjects
+
+
+Artificial intelligence
+
+Business applications
+
+Communication
+
+Data management
+
+Security
+
+Cloud security
+
+Compliance
+
+Identity and access
+
+Information protection and governance
+
+Insider risk
+
+Threat protection
+
+Technical infrastructure
+
+Cloud computing
+
+
+
+Module
+
+Describe Microsoft Security Copilot
+
+32 min
+Microsoft Entra
+Security Engineer
+Beginner
+
+
+Module
+
+Describe the core features of Microsoft Security Copilot
+
+1 hr 8 min
+Microsoft Defender
+Security Operations Analyst
+Beginner
+
+
+Module
+
+Describe the embedded experiences of Microsoft Security Copilot
+
+53 min
+Microsoft Copilot
+Security Engineer
+Beginner
+
+
+Module
+
+Explore use cases of Microsoft Security Copilot
+
+3 hr 19 min
+Microsoft Copilot
+Security Engineer
+Beginner
+
+
+Module
+
+Introduction to information security and compliance in Microsoft Purview
+
+42 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Module
+
+Create and configure sensitivity labels with Microsoft Purview
+
+54 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Module
+
+Apply sensitivity labels for data protection
+
+1 hr
+Microsoft Purview
+Information Protection and Compliance Administrator
+Intermediate
+
+
+Module
+
+Implement information protection and data loss prevention with Microsoft Purview
+
+1 hr 4 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Identify and mitigate AI data security risks
+
+48 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Implement Adaptive Protection in Insider Risk Management
+
+37 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Learning Path
+
+Govern and protect sensitive information in the age of AI
+
+2 hr 8 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Manage AI data security challenges with Microsoft Purview
+
+43 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Understand Microsoft Purview Insider Risk Management
+
+28 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Prepare for Microsoft Purview Insider Risk Management
+
+36 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Prevent data loss with Microsoft Purview
+
+1 hr 8 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Module
+
+Create and manage Insider Risk Management policies
+
+36 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Describe the data compliance solutions of Microsoft Purview
+
+46 min
+Microsoft Purview
+Business User
+Beginner
+
+
+Module
+
+Manage compliance with Microsoft Purview for Microsoft 365 Copilot
+
+37 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Describe the data security solutions of Microsoft Purview
+
+33 min
+Microsoft Purview
+Business User
+Beginner
+
+
+Module
+
+Classify data for protection and governance
+
+23 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Module
+
+Describe the data governance solutions of Microsoft Purview
+
+18 min
+Microsoft Purview
+Business User
+Beginner
+
+
+Learning Path
+
+Introduction to Microsoft Priva and Microsoft Purview
+
+2 hr 6 min
+Azure
+Business User
+Beginner
+
+
+Module
+
+Review and analyze data classification and protection
+
+29 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Govern data in Microsoft Fabric with Purview
+
+35 min
+Microsoft Fabric
+Data Analyst
+Intermediate
+
+
+Module
+
+Protect sensitive data in a digital world
+
+34 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Learning Path
+
+Implement information protection and data loss prevention by using Microsoft Purview
+
+4 hr 55 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Protect email with Microsoft Purview Message Encryption
+
+36 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Investigate insider risk alerts and related activity
+
+1 hr 17 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Module
+
+Implement endpoint data loss prevention (DLP) with Microsoft Purview
+
+53 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Learning Path
+
+SC-200: Mitigate threats using Microsoft Purview
+
+4 hr 2 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+
+Module
+
+Classify and protect on-premises data with Microsoft Purview
+
+41 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Search and investigate with Microsoft Purview Audit
+
+1 hr
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Configure DLP policies for Microsoft Defender for Cloud Apps and Power Platform
+
+29 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Learning Path
+
+Implement and manage Microsoft Purview Insider Risk Management
+
+3 hr 34 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Learning Path
+
+Implement Microsoft Purview Information Protection
+
+6 hr 4 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Investigate and respond to Microsoft Purview Data Loss Prevention alerts
+
+1 hr 11 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Respond to data loss prevention alerts using Microsoft 365
+
+28 min
+Microsoft Purview
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Search for content with Microsoft Purview eDiscovery
+
+34 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Learning Path
+
+Implement and manage Microsoft Purview Data Loss Prevention
+
+3 hr 41 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Detect and address communication risks with Microsoft Purview Communication Compliance
+
+1 hr 6 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Module
+
+Implement retention, eDiscovery, and Communication compliance in Microsoft Purview
+
+1 hr 4 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Course
+
+Information Security Administrator
+
+4 Days
+Microsoft 365
+Administrator
+Intermediate
+
+
+Learning Path
+
+Audit and search activity in Microsoft Purview
+
+1 hr 34 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Understand retention in Microsoft Purview
+
+24 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Implement and manage retention with Microsoft Purview
+
+1 hr 25 min
+Microsoft Purview
+Risk Practitioner
+Intermediate
+
+
+Learning Path
+
+Implement and manage Microsoft 365 retention and recovery
+
+1 hr 19 min
+Microsoft Purview
+Auditor
+Intermediate
+
+Module
+
+Implement and manage Microsoft 365 retention and recovery
+
+55 min
+Microsoft Purview
+Risk Practitioner
+Intermediate
+
+
+Learning Path
+
+Secure AI interactions and environments with Microsoft Purview
+
+3 hr 30 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Learning Path
+
+Implement retention, eDiscovery, and Communication compliance in Microsoft Purview
+
+7 hr 50 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Understand Microsoft Priva
+
+26 min
+Microsoft Priva
+Auditor
+Intermediate
+
+
+Module
+
+Secure AI in schools with Microsoft Security
+
+49 min
+Microsoft 365
+K-12 Educator
+Beginner
+
+
+Module
+
+Implement and manage Microsoft Purview Privacy Risk Management
+
+36 min
+Microsoft Priva
+Auditor
+Intermediate
+
+
+Module
+
+Manage Microsoft Priva Subject Rights Requests
+
+28 min
+Microsoft Priva
+Auditor
+Intermediate
+
+
+Module
+
+Build an end to end data governance and master data management stack with Microsoft Purview and CluedIn
+
+2 hr 38 min
+Microsoft Purview
+Developer
+Intermediate
+
+
+Module
+
+Investigate threats by using audit features in Microsoft Defender XDR and Microsoft Purview Standard
+
+55 min
+Microsoft Purview
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Prevent data loss
+
+12 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Module
+
+Investigate threats using audit in Microsoft Defender XDR and Microsoft Purview (Premium)
+
+46 min
+Microsoft Purview
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+Implement and manage data privacy with Microsoft Priva
+
+1 hr 30 min
+Microsoft Priva
+Auditor
+Intermediate
+
+
+Module
+
+Understand how Microsoft Purview Unified Catalog unifies your data estate
+
+34 min
+Microsoft Purview
+Data Engineer
+Intermediate
+
+
+Module
+
+Secure developer AI environments with Microsoft Purview
+
+1 hr 3 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Learning Path
+
+Secure sensitive data with Microsoft Purview Ninja training scenarios
+
+1 hr 57 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Module
+
+Secure enterprise and browser-based AI apps with Microsoft Purview
+
+53 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Secure Microsoft 365 Copilot interactions with Microsoft Purview
+
+54 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Understand How to Secure AI Data with Microsoft Purview
+
+40 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Manage records and disposition with Microsoft Purview
+
+1 hr 13 min
+Microsoft Purview
+Risk Practitioner
+Intermediate
+
+
+Learning Path
+
+Manage investigations with Microsoft Purview eDiscovery
+
+3 hr 2 min
+Microsoft Purview
+Auditor
+Intermediate
+
+
+Module
+
+Analyze and prepare content in eDiscovery review sets
+
+46 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Create and manage eDiscovery cases
+
+31 min
+Microsoft Purview
+Administrator
+Intermediate
+
+
+Module
+
+Manage data sources and holds in Microsoft Purview eDiscovery
+
+46 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Understand Microsoft Purview eDiscovery
+
+25 min
+Microsoft Purview
+Auditor
+Intermediate
