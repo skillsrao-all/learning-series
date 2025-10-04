@@ -1,0 +1,241 @@
+as of 04 october 2025,
+0 courses, 7 learningpaths, 11 modules 
+
+--
+Roles
+
+Administrator
+
+Developer
+
+DevOps Engineer
+
+Security Engineer
+
+Solution Architect
+
+Student
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+
+Application development
+
+DevOps
+
+
+Data management
+
+Data engineering
+
+Databases
+
+
+Security
+
+Cloud security
+
+Information protection and governance
+
+
+Technical infrastructure
+
+Cloud computing
+
+Containers
+
+Serverless computing
+
+---
+
+Learning Path
+
+AZ-104: Prerequisites for Azure administrators
+
+3 hr 5 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+Implement containerized solutions
+
+2 hr 2 min
+Azure
+Developer
+Intermediate
+
+
+Learning Path
+
+Deploy cloud-native apps using Azure Container Apps
+
+5 hr 39 min
+Azure
+DevOps Engineer
+Intermediate
+
+
+Learning Path
+
+AZ-500: Secure networking
+
+3 hr 54 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Administer containers in Azure
+
+4 hr 24 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+Create cloud-native apps and services with .NET and ASP.NET Core
+
+4 hr 25 min
+.NET
+Developer
+Beginner
+
+
+Learning Path
+
+Create cloud native apps with Azure and open-source software
+
+1 hr 19 min
+Azure
+Administrator
+Intermediate
+
+--
+
+Module
+
+Guided project - Deploy and manage a container app using Azure Container Apps
+
+1 hr 51 min
+Azure
+DevOps Engineer
+Intermediate
+
+
+Module
+
+Configure Azure Container Registry for container app deployments
+
+52 min
+Azure
+DevOps Engineer
+Intermediate
+
+
+Module
+
+Manage container images in Azure Container Registry
+
+41 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Introduction to Docker containers
+
+32 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Build and store container images with Azure Container Registry
+
+42 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Deploy a containerized application on Azure Kubernetes Service
+
+44 min
+Azure
+Solution Architect
+Beginner
+
+
+Module
+
+Orchestrate containers for cloud-native apps with AKS
+
+52 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Deploy a cloud-native .NET microservice automatically with GitHub Actions and Azure Pipelines
+
+34 min
+ASP.NET
+Developer
+Intermediate
+
+
+Module
+
+Implement resiliency in a cloud-native .NET microservice
+
+1 hr
+ASP.NET
+Developer
+Advanced
+
+
+Module
+
+Containerize and deploy a Java app to Azure
+
+40 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Interactive case study: Securing apps and data
+
+38 min
+Microsoft Defender
+Security Engineer
+Advanced
+
+
