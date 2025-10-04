@@ -1,0 +1,180 @@
+as of 04 october 2025, 
+0 courses, 5 learningpaths, 6 modules (Total: 11)
+
+
+Roles
+
+Administrator
+
+Auditor
+
+Business Analyst
+
+Business Owner
+
+Developer
+
+Functional Consultant
+
+Network Engineer
+
+Privacy Manager
+
+Risk Practitioner
+
+Security Engineer
+
+Solution Architect
+
+Student
+
+Support Engineer
+
+Technology Manager
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Data management
+
+Security
+
+
+Technical infrastructure
+
+Architecture
+
+Cloud computing
+
+IT management and monitoring
+
+Migration
+
+Networking
+
+Site reliability engineering
+
+Storage
+
+Virtual machine
+
+--
+Learning Path
+
+AZ-104: Monitor and back up Azure resources
+
+1 hr 51 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+Build great solutions with the Microsoft Azure Well-Architected Framework
+
+6 hr 8 min
+Azure
+Solution Architect
+Beginner
+
+
+Learning Path
+
+Implement disaster recovery in Windows Server on-premises and hybrid environments
+
+2 hr 59 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Architect migration, business continuity, and disaster recovery in Azure
+
+2 hr 56 min
+Azure
+Solution Architect
+Intermediate
+
+
+Learning Path
+
+Azure Support Engineer for Connectivity Specialty
+
+6 hr 9 min
+Azure
+Administrator
+Intermediate
+
+--
+
+Module
+
+Protect your virtual machines by using Azure Backup
+
+35 min
+Azure
+Solution Architect
+Beginner
+
+
+Module
+
+Introduction to Azure Backup
+
+18 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Microsoft Azure Well-Architected Framework - Reliability
+
+1 hr 29 min
+Azure
+Solution Architect
+Intermediate
+
+
+Module
+
+Design a solution for backup and disaster recovery
+
+47 min
+Azure
+Solution Architect
+Advanced
+
+
+Module
+
+Troubleshoot business continuity with Microsoft Azure
+
+33 min
+Azure
+Support Engineer
+Intermediate
+
+
+Module
+
+Monitor workload protection in Azure Backup
+
+50 min
+Azure
+Administrator
+Beginner
+
