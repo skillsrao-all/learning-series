@@ -3,3 +3,545 @@ As of 01 October 2025,
 0 courses
 5 learningpaths
 44 modules
+
+
+Roles
+
+Administrator
+
+Identity and Access Administrator
+
+Security Engineer
+
+Security Operations Analyst
+
+Solution Architect
+
+Support Engineer
+
+Technology Manager
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+
+Subjects
+
+Business applications
+
+Data management
+
+Security
+
+Cloud security
+
+Compliance
+
+Identity and access
+
+Information protection and governance
+
+Threat protection
+
+Technical infrastructure
+
+--
+
+Learning Path
+
+MD-102 Explore endpoint management
+
+2 hr 5 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Microsoft Intune fundamentals
+
+3 hr 41 min
+Microsoft Endpoint Manager
+Administrator
+Beginner
+
+
+Learning Path
+
+MD-101 Explore modern management
+
+1 hr
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-101 Deploy using on-premises based tools
+
+1 hr 2 min
+Microsoft Intune
+Administrator
+Intermediate
+
+
+Learning Path
+
+MD-015 Implement Windows 365 Cloud PCs
+
+1 hr 58 min
+Azure
+Administrator
+Intermediate
+
+
+--
+
+
+Module
+
+Explore the Enterprise Desktop
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Microsoft Entra identities
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Protect your endpoint environment with Microsoft Intune
+
+26 min
+Microsoft Endpoint Manager
+Administrator
+Beginner
+
+
+Module
+
+Introduction to Microsoft Intune
+
+30 min
+Microsoft Endpoint Manager
+Administrator
+Beginner
+
+
+Module
+
+Understand device management using Microsoft Intune
+
+50 min
+Microsoft Endpoint Manager
+Administrator
+Beginner
+
+
+Module
+
+Understand app management using Microsoft Intune
+
+45 min
+Microsoft Endpoint Manager
+Administrator
+Beginner
+
+
+Module
+
+Understand Conditional Access policies using Microsoft Intune
+
+21 min
+Microsoft Endpoint Manager
+Administrator
+Beginner
+
+
+Module
+
+Benefits of Microsoft Intune
+
+23 min
+Microsoft Endpoint Manager
+Administrator
+Beginner
+
+
+Module
+
+Analyze and resolve compliance issues using Microsoft Intune
+
+26 min
+Microsoft Endpoint Manager
+Administrator
+Beginner
+
+
+Module
+
+Enroll devices using Microsoft Endpoint Configuration Manager
+
+11 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Enroll devices using Microsoft Intune
+
+39 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage device authentication
+
+13 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Explore Microsoft Entra ID
+
+18 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage user profiles
+
+25 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage identities in Microsoft Entra ID
+
+18 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Examine the enterprise desktop
+
+24 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Plan a transition to modern management
+
+26 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Implement mobile application management
+
+18 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Update Windows client
+
+20 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Deploy new devices
+
+25 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Deploy using Endpoint Configuration Manager
+
+20 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Protect identities in Microsoft Entra ID
+
+21 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Enable organizational access
+
+15 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+Module
+
+Monitor device profiles
+
+14 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Generate inventory and compliance reports
+
+17 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Explore Desktop Analytics
+
+22 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage Microsoft Defender for Endpoint
+
+25 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Administer applications
+
+24 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage Cloud PCs and Virtual Desktops
+
+18 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Implement device data protection
+
+23 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+--
+
+Module
+
+Implement device profiles
+
+15 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Update clients using Windows Update for Business
+
+17 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Deploy using the Microsoft Deployment Toolkit
+
+20 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Assess deployment readiness
+
+22 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Implement dynamic deployment methods
+
+16 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Implement device compliance policies
+
+18 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Explore Endpoint Analytics
+
+19 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Manage Microsoft Defender in Windows client
+
+23 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Deploy and update applications
+
+41 min
+Microsoft Endpoint Manager
+Administrator
+Intermediate
+
+
+Module
+
+Provision and deploy Windows 365 Cloud PCs
+
+33 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Examine Windows 365
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Apps in Windows 365 Cloud PCs
+
+18 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Explore Windows 365 Cloud PC management options
+
+38 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Advance your security posture with Microsoft Intune from chip to cloud
+
+1 hr 8 min
+Microsoft 365
+Security Operations Analyst
+Beginner
+
+
+Types
