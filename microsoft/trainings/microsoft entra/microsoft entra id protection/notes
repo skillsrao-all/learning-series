@@ -1,5 +1,86 @@
-As of 01 October 2025,
+As of 01 October 2025,  
 
-0 courses
-2 learningpaths
-3 modules
+0 courses; 2 learningpaths; 3 modules (total: 5)
+
+Roles
+
+Administrator
+
+Business Owner
+
+Identity and Access Administrator
+
+Security Engineer
+
+Security Operations Analyst
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+
+Security
+
+Cloud security
+
+Identity and access
+
+Threat protection
+
+
+
+Learning Path
+
+SC-200: Mitigate threats using Microsoft Defender XDR
+
+5 hr 35 min
+Microsoft Defender
+Security Operations Analyst
+Intermediate
+
+
+Learning Path
+
+AZ-500: Secure identity and access
+
+7 hr 12 min
+Azure
+Security Engineer
+Intermediate
+
+Module
+
+Manage Microsoft Entra Identity Protection
+
+50 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Explore use cases of Microsoft Security Copilot
+
+3 hr 19 min
+Microsoft Copilot
+Security Engineer
+Beginner
+
+
+Module
+
+Manage security controls for identity and access
+
+6 hr 7 min
+Azure
+Security Engineer
+Intermediate
