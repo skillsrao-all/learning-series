@@ -1,0 +1,134 @@
+as of 04 october 2025,
+0 courses, 5 learningpaths, 5 modules (Total: 10)
+
+
+Roles
+
+Administrator
+
+Network Engineer
+
+Security Engineer
+
+Solution Architect
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+
+Subjects
+
+Security
+
+
+Technical infrastructure
+
+- Architecture
+
+- Cloud computing
+
+- Networking
+
+--
+Learning Path
+
+AZ-104: Configure and manage virtual networks for Azure administrators
+
+4 hr 24 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+AZ-700 Design and Implement Microsoft Azure Network Solutions
+
+6 hr 29 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Implement network security in Azure
+
+3 hr 19 min
+Azure
+Solution Architect
+Beginner
+
+
+Learning Path
+
+Architect network infrastructure in Azure
+
+6 hr 52 min
+Azure
+Solution Architect
+Intermediate
+
+
+Learning Path
+
+Architect secure infrastructure in Azure
+
+2 hr 35 min
+Azure
+Solution Architect
+Intermediate
+
+--
+Module
+
+Introduction to Azure Application Gateway
+
+18 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Microsoft Azure Well-Architected Framework - Reliability
+
+1 hr 29 min
+Azure
+Solution Architect
+Intermediate
+
+
+Module
+
+Load balance HTTP(S) traffic in Azure
+
+42 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Plan and implement security for public access to Azure resources
+
+1 hr 1 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Load balance your web service traffic with Application Gateway
+
+1 hr 32 min
+Azure
+Solution Architect
+Beginner
