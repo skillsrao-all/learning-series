@@ -1,5 +1,769 @@
 As of 03 October 2025, 
 
-1 courses
-21 learningpaths
-102 modules
+Total: 69
+
+3 courses
+19 learningpaths
+47 modules
+
+
+Products
+Windows Server
+
+
+
+Roles
+
+Administrator
+
+Business Owner
+
+Business User
+
+DevOps Engineer
+
+Identity and Access Administrator
+
+Network Engineer
+
+Security Engineer
+
+Security Operations Analyst
+
+Solution Architect
+
+Support Engineer
+
+Technology Manager
+
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Application development, Application development/DevOps
+
+Business applications
+
+- Device management
+
+- Process and workflow
+
+- Remote and hybrid work
+
+Data management
+
+Security
+
+Technical infrastructure
+
+- Cloud computing, Containers, IT management and monitoring, Migration, Networking, Site realiability engineering, Storage, Virtual machine 
+Types
+
+---------------
+Module
+
+Implement Group Policy Objects
+
+55 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Introduction to AD DS
+
+1 hr 5 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Manage advanced features of AD DS
+
+50 min
+Windows Server
+Administrator
+Advanced
+
+
+Module
+
+Just Enough Administration in Windows Server
+
+44 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Windows Server update management
+
+31 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Implement Windows Server Data Deduplication
+
+45 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Secure Hyper-V workloads
+
+55 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Implement Windows Server DNS
+
+49 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Deploy Windows Server
+
+45 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Implement Windows Server Storage Replica
+
+45 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Manage AD DS domain controllers and FSMO roles
+
+59 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Implement Windows Server iSCSI
+
+45 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Implement Storage Spaces and Storage Spaces Direct
+
+1 hr
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Perform Windows Server secure administration
+
+40 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Deploy and manage DHCP
+
+1 hr 10 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Describe Windows Server administration tools
+
+45 min
+Windows Server
+Administrator
+Intermediate
+
+
+
+Module
+
+Run containers on Windows Server
+
+48 min
+Windows Server
+Administrator
+Intermediate
+
+
+
+Module
+
+Configure and manage Hyper-V
+
+48 min
+Windows Server
+Administrator
+Intermediate
+
+
+
+Module
+
+Implement Windows Server File Server high availability
+
+45 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Implement Windows Server failover clustering
+
+1 hr 3 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Introduction to Cluster Shared Volumes
+
+45 min
+Windows Server
+Administrator
+Beginner
+
+
+
+Module
+
+Manage and monitor Windows Server event logs
+
+39 min
+Windows Server
+Administrator
+Intermediate
+
+
+
+Module
+
+Implement and manage Active Directory Certificate Services
+
+56 min
+Windows Server
+Administrator
+Intermediate
+
+
+
+Module
+
+Monitor Windows Server performance
+
+1 hr 19 min
+Windows Server
+Administrator
+Intermediate
+
+
+
+Module
+
+Perform post-installation configuration of Windows Server
+
+46 min
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Active Directory Domain Services
+
+4 hr 45 min
+Windows Server
+Administrator
+Intermediate
+
+
+
+Learning Path
+
+Deploy and manage identity infrastructure
+
+6 hr 17 min
+Windows Server
+Administrator
+Intermediate
+
+
+
+Module
+
+Configure and manage Hyper-V virtual machines
+
+45 min
+Windows Server
+Administrator
+Intermediate
+
+
+
+Module
+
+Manage Windows Server file servers
+
+55 min
+Windows Server
+Administrator
+Beginner
+
+
+Learning Path
+
+Manage Windows Servers and workloads in a hybrid environment
+
+4 hr 23 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Secure Windows Server user accounts
+
+38 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Orchestrate containers on Windows Server using Kubernetes
+
+1 hr 5 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Active Directory Domain Services migration
+
+36 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Select Windows Server editions, servicing options, and activation
+
+36 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Implement remote access
+
+59 min
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Manage virtualization and containers in a hybrid environment
+
+7 hr 2 min
+Windows Server
+Administrator
+Intermediate
+
+
+Course
+
+Administer Windows Server Hybrid Core Infrastructure
+
+4 Days
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Implement IP Address Management
+
+1 hr 15 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Troubleshoot Active Directory
+
+57 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Migrate file server workloads using Storage Migration Service
+
+28 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Secure Windows Server DNS
+
+58 min
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Configure storage and file services
+
+5 hr 42 min
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Implement and operate an on-premises and hybrid networking infrastructure
+
+7 hr 5 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Migrate Windows Server roles
+
+24 min
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Windows Server deployment, configuration, and administration
+
+3 hr 32 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Implement high availability of Windows Server VMs
+
+45 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Implement Windows Server auditing and diagnostics
+
+37 min
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Windows Server Hyper-V and Virtualization
+
+5 hr 11 min
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Secure Windows Server on-premises and hybrid infrastructures
+
+6 hr 42 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Implement Hyper-V Replica
+
+50 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Troubleshoot on-premises and hybrid networking
+
+1 hr 3 min
+Azure
+Administrator
+Intermediate
+Learning Path
+
+Migrate servers and workloads in on-premises and hybrid environments
+
+3 hr 2 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Troubleshoot Windows Server Virtual Machines in Azure
+
+1 hr 6 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Implement Windows Server high availability
+
+4 hr 16 min
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Monitor and troubleshoot Windows Server environments
+
+7 hr 2 min
+Azure
+Administrator
+Intermediate
+
+
+Course
+
+Configure Windows Server Hybrid Advanced Services
+
+4 Days
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Implement disaster recovery in Windows Server on-premises and hybrid environments
+
+2 hr 59 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Windows Server Network Infrastructure
+
+5 hr 11 min
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Migrate Windows Server workloads to Azure
+
+3 hr 33 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Deploy, manage, and monitor Windows containers on Azure Kubernetes Service
+
+7 hr 26 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+Windows Server high availability
+
+3 hr 23 min
+Windows Server
+Administrator
+Intermediate
+
+
+Learning Path
+
+Windows Server file servers and storage management
+
+4 hr 55 min
+Windows Server
+Administrator
+Intermediate
+
+
+Course
+
+Automating Administration with PowerShell
+
+5 Days
+Windows Server
+Administrator
+Advanced
+
+
+Module
+
+Enable Windows Server Extended Security Updates by using Azure Arc
+
+24 min
+Windows Server
+Administrator
+Intermediate
+
+
+Module
+
+Key features and innovations in Windows Server 2025
+
+10 min
+Windows Server
+Business Owner
+Beginner
+
+
+
+Module
+
+Azure integrations and benefits in Windows Server 2025
+
+15 min
+Windows Server
+Business Owner
+Beginner
+
+
+Module
+
+Introduction to Windows Server 2025
+
+18 min
+Windows Server
+Business Owner
+Beginner
+
+
+Learning Path
+
+Windows Server 2025 Accreditation 2025
+
+49 min
+Windows Server
+Administrator
+Beginner
+
+
+Module
+
+Key features and innovations in Windows Server 2025
+
+16 min
+Windows Server
+Business Owner
+Beginner
+
