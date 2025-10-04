@@ -1,4 +1,70 @@
 As of 01 October 2025, 
-0 courses
-1 learningpaths
-3 modules
+0 courses; 1 learningpaths; 3 modules
+
+
+Roles
+
+Administrator
+
+Identity and Access Administrator
+
+Security Engineer
+
+
+Levels
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Application development
+
+Security
+
+Cloud security
+
+Identity and access
+
+
+
+Learning Path
+
+SC-300: Implement an identity management solution
+
+4 hr 16 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Register apps using Microsoft Entra ID
+
+23 min
+Microsoft Entra
+Administrator
+Intermediate
+
+
+Module
+
+Plan and design the integration of enterprise apps for SSO
+
+42 min
+Microsoft Entra
+Administrator
+Advanced
+
+
+Module
+
+Implement app registration
+
+48 min
+Azure
+Administrator
+Advanced
