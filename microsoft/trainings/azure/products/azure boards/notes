@@ -1,0 +1,648 @@
+as of 04 october 2025,
+0 courses, 8 learningpaths, 48 modules (Total: 56)
+
+--
+
+Roles
+
+Administrator
+
+AI Engineer
+
+Data Engineer
+
+Developer
+
+DevOps Engineer
+
+Platform Engineer
+
+Security Engineer
+
+Security Operations Analyst
+
+Service Adoption Specialist
+
+Solution Architect
+
+Startup Founder
+
+Technology Manager
+
+
+Levels
+
+Advanced
+
+
+Subjects
+
+Application development
+
+DevOps
+
+
+Artificial intelligence
+
+Classification and analysis
+
+
+Business applications
+
+Change management
+
+Communication
+
+Process and workflow
+
+
+Data management
+
+Data analytics
+
+Data engineering
+
+
+Security
+
+Cloud security
+
+Compliance
+
+Identity and access
+
+
+Technical infrastructure
+
+Architecture
+
+Cloud computing
+
+Containers
+
+IT management and monitoring
+
+Serverless computing
+
+Site reliability engineering
+
+--
+
+Learning Path
+
+AZ-400: Development for enterprise DevOps
+
+6 hr 8 min
+Azure
+Administrator
+Advanced
+
+
+Learning Path
+
+AZ-400: Implement CI with Azure Pipelines and GitHub Actions
+
+6 hr 36 min
+Azure
+Administrator
+Advanced
+
+
+Learning Path
+
+AZ-400: Design and implement a release strategy
+
+7 hr 27 min
+Azure
+Administrator
+Advanced
+
+
+Learning Path
+
+AZ-400: Implement a secure continuous deployment using Azure Pipelines
+
+3 hr 38 min
+Azure
+Administrator
+Advanced
+
+
+Learning Path
+
+AZ-400: Manage infrastructure as code using Azure and DSC
+
+4 hr 5 min
+Azure
+Administrator
+Advanced
+
+
+Learning Path
+
+AZ-400: Design and implement a dependency management strategy
+
+2 hr 53 min
+Azure
+Administrator
+Advanced
+
+
+Learning Path
+
+AZ-400: Implement continuous feedback
+
+3 hr 55 min
+Azure
+Administrator
+Advanced
+
+
+Learning Path
+
+AZ-400: Implement security and validate code bases for compliance
+
+1 hr 50 min
+Azure
+Administrator
+Advanced
+
+--
+
+Module
+
+Introduction to DevOps
+
+42 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Collaborate with pull requests in Azure Repos
+
+30 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Plan Agile with GitHub Projects and Azure Boards
+
+1 hr 34 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Design and implement branch strategies and workflows
+
+1 hr 32 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Identify technical debt
+
+28 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Manage and configure repositories
+
+48 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Explore Git hooks
+
+14 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Plan foster inner source
+
+20 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Explore Azure Pipelines
+
+17 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Introduction to GitHub Actions
+
+30 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Manage Azure Pipeline agents and pools
+
+1 hr 22 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Learn continuous integration with GitHub Actions
+
+1 hr 10 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Describe pipelines and concurrency
+
+1 hr 16 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Design and implement a pipeline strategy
+
+34 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Integrate with Azure Pipelines
+
+27 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Design a container build strategy
+
+1 hr
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Security Monitoring and Governance
+
+37 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Introduction to GitHub Packages
+
+26 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Automate inspection of health
+
+28 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Create Azure resources using Azure CLI
+
+35 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Integrate with identity management systems
+
+19 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Create Azure resources using Azure Resource Manager templates
+
+29 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Introduction to Secure DevOps
+
+20 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Manage alerts, blameless retrospectives and a just culture
+
+33 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Explore release recommendations
+
+1 hr 37 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Implement canary releases and dark launching
+
+16 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Manage and modularize tasks and templates
+
+44 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Implement blue-green deployment and feature toggles
+
+18 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Implement A/B testing and progressive exposure deployment
+
+12 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Implement Desired State Configuration (DSC)
+
+26 min
+Azure
+Administrator
+Advanced
+
+Module
+
+Develop monitor and status dashboards
+
+28 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Design processes to automate application analytics
+
+23 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Share knowledge within teams
+
+57 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Manage application configuration data
+
+2 hr 17 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Implement open-source software
+
+26 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Provision and test environments
+
+2 hr 56 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Explore infrastructure as code and configuration management
+
+20 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Introduction to deployment patterns
+
+16 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Migrate consolidate and secure artifacts
+
+22 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Implement Bicep
+
+1 hr 24 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Software Composition Analysis
+
+27 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Understand package management
+
+1 hr 19 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Explore Azure Automation with DevOps
+
+51 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Create a release pipeline
+
+1 hr 42 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Implement a versioning strategy
+
+24 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Explore package dependencies
+
+22 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Implement tools to track usage and flow
+
+1 hr 34 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Static analyzers
+
+1 hr 11 min
+Azure
+Administrator
+Advanced
