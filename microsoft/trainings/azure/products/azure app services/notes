@@ -1,0 +1,455 @@
+as of 04 october 2025,
+0 courses, 13 learningpaths, 26 modules (Total: 39)
+
+
+
+Roles
+
+Administrator
+
+App Maker
+
+Developer
+
+DevOps Engineer
+
+Security Engineer
+
+Solution Architect
+
+Student
+
+Support Engineer
+
+Technology Manager
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Business applications
+
+- Automation
+
+Data management
+
+- Data engineering
+
+Security
+
+- Cloud security
+
+Technical infrastructure
+
+- Architecture
+
+- Cloud computing
+
+- Containers
+
+- IT management and monitoring
+
+- Migration
+
+
+--
+
+
+Learning Path
+
+Implement Azure App Service web apps
+
+2 hr 33 min
+Azure
+Developer
+Intermediate
+
+
+Learning Path
+
+AZ-500: Secure compute, storage, and databases
+
+4 hr 9 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Build great solutions with the Microsoft Azure Well-Architected Framework
+
+6 hr 8 min
+Azure
+Solution Architect
+Beginner
+
+
+Learning Path
+
+Deploy a website to Azure with Azure App Service
+
+2 hr 29 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Get started with Java on Azure
+
+4 hr 59 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Architect modern applications in Azure
+
+3 hr 30 min
+Azure
+Solution Architect
+Intermediate
+
+
+Learning Path
+
+Create cloud native apps with Azure and open-source software
+
+1 hr 19 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Expand the capabilities for Java apps on Azure
+
+2 hr 52 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Develop an instrumentation strategy
+
+4 hr 48 min
+Azure
+DevOps Engineer
+Beginner
+
+
+Learning Path
+
+Migrate ASP.NET Apps to Azure
+
+1 hr 49 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Azure Static Web Apps
+
+1 hr 23 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Architect migration, business continuity, and disaster recovery in Azure
+
+2 hr 56 min
+Azure
+Solution Architect
+Intermediate
+
+
+Learning Path
+
+Best practices for Java apps on Azure
+
+4 hr 46 min
+Azure
+Developer
+Beginner
+
+--
+
+Module
+
+Host a web application with Azure App Service
+
+31 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Configure web app settings
+
+30 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Configure Azure App Service plans
+
+24 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Scale apps in Azure App Service
+
+22 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Explore Azure App Service deployment slots
+
+57 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Explore Azure App Service
+
+44 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Microsoft Azure Well-Architected Framework - Performance Efficiency
+
+1 hr 5 min
+Azure
+Solution Architect
+Intermediate
+
+
+Module
+
+Microsoft Azure Well-Architected Framework - Reliability
+
+1 hr 29 min
+Azure
+Solution Architect
+Intermediate
+
+
+Module
+
+Plan and implement security for private access to Azure resources
+
+56 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Plan and implement security for public access to Azure resources
+
+1 hr 1 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Design an Azure compute solution
+
+1 hr 1 min
+Azure
+Solution Architect
+Advanced
+
+
+Module
+
+Manage secrets in your server apps with Azure Key Vault
+
+46 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Publish an ASP.NET Core app
+
+29 min
+ASP.NET
+Developer
+Beginner
+
+
+Module
+
+Choose the right Azure service for deploying your Java application
+
+25 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Orchestrate containers for cloud-native apps with AKS
+
+52 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps
+
+18 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Manage secrets in Java applications - Zero Trust and Zero Secrets
+
+34 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Publish an API to Azure Static Web Apps
+
+27 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps
+
+38 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Rapidly develop and deploy Java apps using GitHub Actions or Azure Pipelines
+
+30 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Develop Java web app on Azure using Maven
+
+54 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Decompose a monolithic application into a microservices architecture
+
+52 min
+Azure
+Solution Architect
+Advanced
+
+
+Module
+
+Troubleshoot Web App Down Scenarios with App Service Diagnostics
+
+21 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Implement Azure Load Testing
+
+1 hr 11 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Implement GitHub Actions for Azure
+
+1 hr 1 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Develop apps with Azure Database for MySQL - Flexible Server
+
+42 min
+Azure
+Developer
+Intermediate
+
