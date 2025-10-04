@@ -1,5 +1,107 @@
 As of 01 October 2025,  
 
-0 courses
-3 learningpaths
-5 modules
+0 courses; 3 learningpaths; 5 modules (total: 8)
+
+
+Roles
+
+Administrator
+
+Identity and Access Administrator
+
+Security Engineer
+
+
+Levels
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Security
+
+Technical infrastructure
+
+
+Learning Path
+
+AZ-500: Secure identity and access
+
+7 hr 12 min
+Azure
+Security Engineer
+Intermediate
+
+
+Learning Path
+
+Configure and govern entitlement with Microsoft Entra ID
+
+3 hr 18 min
+Microsoft Entra
+Administrator
+Intermediate
+
+
+Learning Path
+
+SC-300: Plan and implement an identity governance strategy
+
+3 hr 18 min
+Azure
+Administrator
+Intermediate
+
+
+
+Module
+
+Plan and implement entitlement management
+
+55 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Plan and implement privileged access
+
+1 hr 2 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Plan, implement, and manage access review
+
+45 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Monitor and maintain Microsoft Entra ID
+
+36 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Automate identity lifecycle using Lifecycle Workflows in Microsoft Entra
+
+45 min
+Microsoft Entra
+Administrator
+Advanced
