@@ -1,0 +1,946 @@
+
+as of 04 october 2025,
+
+0 courses; 23 learning paths; 62 modules (Total: 85)
+
+Roles
+
+Administrator
+
+AI Engineer
+
+App Maker
+
+Auditor
+
+Business Owner
+
+Business User
+
+Data Engineer
+
+Data Scientist
+
+Developer
+
+DevOps Engineer
+
+Functional Consultant
+
+Higher Education Educator
+
+Identity and Access Administrator
+
+K-12 Educator
+
+Privacy Manager
+
+School Leader
+
+Security Engineer
+
+Security Operations Analyst
+
+Solution Architect
+
+Startup Founder
+
+Student
+
+Support Engineer
+
+Technology Manager
+
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+
+Subjects
+
+Application development
+
+- Internet of things
+
+- Mixed reality
+
+Artificial intelligence
+
+- Classification and analysis
+
+- Generative AI
+
+- Machine learning
+
+- Natural language processing
+
+Business applications
+
+- Custom app development
+
+Data management
+
+- Databases
+
+Security
+
+- Compliance
+
+- Insider risk
+
+Technical infrastructure
+
+- Cloud computing
+
+
+----
+
+Learning Path
+
+Develop computer vision solutions in Azure
+
+6 hr 35 min
+Azure
+AI Engineer
+Intermediate
+
+
+Learning Path
+
+Create vision models with Azure AI Custom Vision
+
+2 hr 8 min
+Azure
+AI Engineer
+Intermediate
+
+
+Learning Path
+
+Work with generative artificial intelligence (AI) models in Azure Machine Learning
+
+2 hr 26 min
+Azure
+Data Scientist
+Intermediate
+
+
+Learning Path
+
+Develop natural language solutions in Azure
+
+7 hr 47 min
+Azure
+AI Engineer
+Intermediate
+
+
+Learning Path
+
+Develop generative AI apps in Azure
+
+7 hr 29 min
+Azure
+Data Scientist
+Intermediate
+
+
+Learning Path
+
+Introduction to AI Skills for nonprofits
+
+1 hr 27 min
+Azure
+Functional Consultant
+Beginner
+
+
+Learning Path
+
+Develop AI agents on Azure
+
+7 hr 18 min
+Azure
+AI Engineer
+Intermediate
+
+
+Learning Path
+
+Copilot Foundations
+
+4 hr 19 min
+Azure
+Data Scientist
+Beginner
+
+
+Learning Path
+
+Design a machine learning solution
+
+2 hr 42 min
+Azure
+Data Scientist
+Beginner
+
+
+Learning Path
+
+Introduction to generative AI for trainers
+
+2 hr 36 min
+Azure
+K-12 Educator
+Beginner
+
+
+Learning Path
+
+Monitor AI workloads on Azure
+
+1 hr 10 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Build AI Apps with Azure Database for PostgreSQL
+
+2 hr 26 min
+Azure
+Developer
+Intermediate
+
+
+Learning Path
+
+Responsible use of artificial intelligence in education
+
+2 hr 42 min
+Azure
+K-12 Educator
+Beginner
+
+
+Learning Path
+
+Introduction to artificial intelligence for trainers
+
+2 hr 36 min
+Azure
+K-12 Educator
+Beginner
+
+
+Learning Path
+
+Build mixed reality digital twins with Azure Digital Twins and Unity
+
+3 hr 59 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Manage Authentication, Authorization, and RBAC for AI workloads on Azure
+
+52 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+An AI toolbox for trainers
+
+2 hr 53 min
+Azure
+K-12 Educator
+Beginner
+
+
+Learning Path
+
+Operationalize generative AI applications (GenAIOps)
+
+3 hr 33 min
+Azure
+Data Scientist
+Intermediate
+
+
+Learning Path
+
+Operationalize AI responsibly with Azure AI Foundry
+
+2 hr 33 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Evaluate generative AI applications
+
+1 hr 36 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Develop AI information extraction solutions in Azure
+
+4 hr 18 min
+Azure
+AI Engineer
+Intermediate
+
+
+Learning Path
+
+Manage Network Access for AI workloads
+
+20 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+AI workload governance and DLP
+
+54 min
+Azure
+Administrator
+Intermediate
+
+---
+
+Module
+
+Plan and prepare to develop AI solutions on Azure
+
+1 hr
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Get started with speech in Azure
+
+31 min
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Orchestrate a multi-agent solution using the Microsoft Agent Framework
+
+1 hr 13 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Detect objects in images
+
+1 hr 5 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Classify images
+
+1 hr 3 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Analyze video
+
+48 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Read text in images
+
+45 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Analyze images
+
+44 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Use AI responsibly with Azure AI Foundry Content Safety
+
+1 hr 10 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Build a conversational language understanding model
+
+1 hr 5 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Create speech-enabled apps with Azure AI services
+
+53 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Create custom text classification solutions
+
+58 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Translate speech with the Azure AI Speech service
+
+47 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Translate text with Azure AI Translator service
+
+48 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Custom named entity recognition
+
+53 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Create question answering solutions with Azure AI Language
+
+46 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Use prebuilt Document intelligence models
+
+21 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Extract data from forms with Azure Document intelligence
+
+49 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Analyze text with Azure AI Language
+
+54 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Introduction to generative AI - Exploring the basics
+
+22 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Introduction to Microsoft's Responsible AI Approach
+
+24 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Create effective prompts for generative AI training tools
+
+20 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+A guide to artificial intelligence
+
+33 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Create images with generative AI
+
+26 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Use Microsoft Copilot to create training materials
+
+1 hr 28 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Apply responsible AI principles in learning environments
+
+39 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Guided project - Embrace responsible AI
+
+1 hr 39 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Enhance nonprofit volunteer management with Microsoft Copilot
+
+40 min
+Azure
+Functional Consultant
+Beginner
+
+
+Module
+
+Summarize data with Azure AI Services and Azure database for PostgreSQL
+
+21 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Tailoring trainings with AI
+
+17 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Exploring artificial intelligence in action
+
+19 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Challenge project - Add image analysis and generation capabilities to your application
+
+1 hr 20 min
+Visual Studio Code
+Developer
+Beginner
+Module
+
+Translate Text with Azure AI Translator and Azure Database for PostgreSQL
+
+18 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Extract insights using Azure AI Language and Azure Database for PostgreSQL
+
+22 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Introduction to mixed reality
+
+41 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Use AI-powered tools for training
+
+1 hr 27 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Streamline nonprofit program management with Microsoft Copilot
+
+25 min
+Azure
+Functional Consultant
+Beginner
+
+
+Module
+
+Accelerate nonprofit funding solutions with Microsoft Copilot
+
+39 min
+Azure
+Functional Consultant
+Beginner
+
+
+Module
+
+Configure 3D assets for mixed reality in Unity
+
+41 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Set up a mixed reality project for Azure Digital Twins in Unity
+
+34 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Build a 3D Scene for mixed reality in Unity
+
+52 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Connect IoT data to mixed reality with Azure Digital Twins and Unity
+
+1 hr 52 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Introduction to Azure AI Translator
+
+31 min
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Streamline training plans with AI tools
+
+18 min
+Azure
+K-12 Educator
+Beginner
+Module
+
+Training with AI tools
+
+1 hr 56 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Introduction to building copilots for startups
+
+29 min
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Use AI tools to create an inclusive learning environment
+
+22 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Implement AI tools into a training environment
+
+17 min
+Azure
+K-12 Educator
+Beginner
+
+
+Module
+
+Create a multimodal analysis solution with Azure AI Content Understanding
+
+1 hr
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Plan and prepare a GenAIOps solution
+
+50 min
+Azure
+Data Scientist
+Intermediate
+
+
+Module
+
+Run evaluations and generate synthetic datasets
+
+58 min
+Azure
+Developer
+Beginner
+
+
+Module
+
+Get started with AI-powered information extraction in Azure
+
+1 hr
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Introduction to AI-powered information extraction concepts
+
+34 min
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Introduction to computer vision concepts
+
+37 min
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Introduction to natural language processing concepts
+
+30 min
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Create an Azure AI Content Understanding client application
+
+1 hr
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Get started with computer vision in Azure
+
+45 min
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Get started with natural language processing in Azure
+
+40 min
+Azure
+AI Engineer
+Beginner
+
+
+Module
+
+Secure developer AI environments with Microsoft Purview
+
+1 hr 3 min
+Microsoft 365
+Administrator
+Intermediate
+
+
+Module
+
+Discover Azure AI Agents with A2A
+
+56 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Analyze and debug your generative AI app with tracing
+
+1 hr 5 min
+Azure
+AI Engineer
+Intermediate
+
+
+Module
+
+Build the vision - visual content creation with Copilot, Designer & Clipchamp
+
+1 hr 22 min
+Microsoft Copilot
+Student
+Beginner
