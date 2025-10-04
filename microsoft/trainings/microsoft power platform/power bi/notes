@@ -1,5 +1,652 @@
-As of 01 October 2025, 
+As of 03 October 2025, 
 
-0 courses
-1 learningpaths
-7 modules
+2 courses
+12 learningpaths
+45 modules
+
+
+Roles
+
+Administrator
+
+App Maker
+
+Business Analyst
+
+Business Owner
+
+Business User
+
+Data Analyst
+
+Data Engineer
+
+Database Administrator
+
+Developer
+
+Functional Consultant
+
+Higher Education Educator
+
+K-12 Educator
+
+School Leader
+
+Solution Architect
+
+Student
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Application development
+
+Artificial intelligence
+
+Business applications
+
+Data management
+
+Security
+
+
+
+Course
+
+Design and manage analytics solutions using Power BI
+
+3 Days
+Microsoft Power Platform
+Data Analyst
+Intermediate
+Course
+
+Collaborate with colleagues with staff and PLC teams in Microsoft Teams
+
+1 Hour
+Microsoft Teams
+K-12 Educator
+Beginner
+
+
+
+Learning Path
+
+Get started with Microsoft data analytics
+
+1 hr 44 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Learning Path
+
+Prepare data for analysis with Power BI
+
+4 hr 33 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Learning Path
+
+Model data with Power BI
+
+6 hr 59 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Learning Path
+
+Design effective reports in Power BI
+
+5 hr 7 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Learning Path
+
+Prepare and visualize data with Microsoft Power BI
+
+8 hr 10 min
+Microsoft Fabric
+Data Analyst
+Beginner
+
+
+Learning Path
+
+Work with semantic models in Microsoft Fabric
+
+6 hr 12 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Learning Path
+
+Dashboard in a Day - Online workshop
+
+7 hr 26 min
+Microsoft Power Platform
+Business Analyst
+Beginner
+
+
+Learning Path
+
+Use DAX in semantic models
+
+3 hr 23 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Learning Path
+
+Implement a Data Streaming Solution with Azure Stream Analytics
+
+3 hr 2 min
+Azure
+Data Analyst
+Beginner
+
+
+Learning Path
+
+Process mining for the process owner
+
+2 hr 12 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Learning Path
+
+Manage and secure Power BI
+
+2 hr 48 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+
+Learning Path
+
+Describe the business value of Microsoft Power Platform
+
+1 hr 46 min
+Office 365
+Business Owner
+Beginner
+
+
+Module
+
+Get started building with Power BI
+
+21 min
+Microsoft Power Platform
+Data Analyst
+Beginner
+
+
+Module
+
+Discover data analysis
+
+36 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Get started with Copilot in Power BI
+
+27 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Get data in Power BI
+
+1 hr 46 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Clean, transform, and load data in Power BI
+
+2 hr 1 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Choose a Power BI model framework
+
+46 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Create visual calculations in Power BI Desktop
+
+54 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Design Power BI reports
+
+1 hr 55 min
+Microsoft Power Platform
+Business User
+Intermediate
+
+
+Module
+
+Enhance Power BI report designs for the user experience
+
+1 hr 36 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Scope report design requirements
+
+29 min
+Microsoft Power Platform
+Business User
+Intermediate
+
+
+Module
+
+Explore fundamentals of data visualization
+
+38 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Optimize a model for performance in Power BI
+
+1 hr 9 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Modify DAX filter context in semantic models
+
+1 hr 7 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Secure data access in Power BI
+
+39 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Write DAX formulas for semantic models
+
+30 min
+Microsoft Power Platform
+Data Analyst
+Beginner
+
+
+Module
+
+Perform analytics in Power BI
+
+1 hr 7 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Create dashboards in Power BI
+
+59 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Use DAX time intelligence functions in semantic models
+
+34 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Manage semantic models in Power BI
+
+25 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Create reports with Power BI and Dataverse for Teams
+
+35 min
+Microsoft Teams
+Business User
+Beginner
+
+
+Module
+
+Design scalable semantic models
+
+1 hr 9 min
+Microsoft Fabric
+Data Analyst
+Advanced
+
+
+Module
+
+Create and manage Power BI assets
+
+1 hr 8 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Access and prepare data for Power BI Desktop - Online workshop
+
+50 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Enforce Power BI model security
+
+1 hr 21 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Build your first data model and explore the data by using Power BI - Online workshop
+
+1 hr 32 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Use hierarchies and DAX in your first data model - Online workshop
+
+1 hr
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Data visualization and reports in Power BI - Online workshop
+
+23 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Introduction and prerequisites for Power BI – Online workshop
+
+35 min
+Microsoft Power Platform
+Business Analyst
+Beginner
+
+
+Module
+
+Import custom visuals and add bookmarks to a report in Power BI - Online workshop
+
+18 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Publish and access reports in Power BI service – Online workshop
+
+1 hr 26 min
+Microsoft Power Platform
+Business User
+
+
+Module
+
+Interact, share, and collaborate Power BI dashboards – Online workshop
+
+1 hr 22 min
+Microsoft Power Platform
+Business User
+Beginner
+
+
+Module
+
+Work with requirements for Microsoft Power Platform and Dynamics 365
+
+23 min
+Dynamics 365
+Solution Architect
+Advanced
+
+
+Module
+
+Visualize real-time data with Azure Stream Analytics and Power BI
+
+1 hr 8 min
+Azure
+Data Analyst
+Intermediate
+
+
+Module
+
+Understand concepts of data analytics
+
+28 min
+Azure
+Data Analyst
+Intermediate
+
+
+Module
+
+Hyperautomation with insights from process mining
+
+30 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Solution Architect series: Evaluate Power Platform analytics and AI
+
+41 min
+Microsoft Power Platform
+Solution Architect
+Advanced
+
+
+Module
+
+Create Power BI reports with Power Automate Process Mining
+
+22 min
+Microsoft Power Platform
+Functional Consultant
+Beginner
+
+
+Module
+
+Intelligent environments - Education Transformation Framework
+
+1 hr
+Microsoft Teams
+K-12 Educator
+Beginner
+
+
+Module
+
+Connect Power Platform to SAP on Azure
+
+33 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Describe Microsoft Power Platform administration and governance
+
+46 min
+Microsoft Power Platform
+Business Owner
+Beginner
+
+
+Module
+
+Choose a content distribution method
+
+25 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Configure a semantic model
+
+1 hr 20 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Manage workspaces in Power BI service
+
+20 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Create DAX calculations in semantic models
+
+1 hr 25 min
+Microsoft Power Platform
+Data Analyst
+Intermediate
+
+
+Module
+
+Describe the business value of Microsoft Power Platform services
+
+1 hr 4 min
+Microsoft Power Platform
+Business Owner
+Beginner
+
+
