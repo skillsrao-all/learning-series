@@ -1,5 +1,1283 @@
 As of 01 October 2025,
 
-0 courses
-37 learningpaths
-85 modules
+0 courses; 37 learningpaths; 85 modules (Total: 122) 
+
+
+Roles
+
+Administrator
+
+App Maker
+
+Auditor
+
+Business Owner
+
+Business User
+
+Developer
+
+DevOps Engineer
+
+Identity and Access Administrator
+
+Network Engineer
+
+Privacy Manager
+
+Security Engineer
+
+Security Operations Analyst
+
+Solution Architect
+
+Student
+
+Support Engineer
+
+Technology Manager
+
+
+Levels
+
+Beginner
+
+Intermediate
+
+Advanced
+
+
+Subjects
+
+Application development
+
+Business applications
+
+Automation
+
+Employee management
+
+Data management
+
+Security
+
+Technical infrastructure
+
+
+
+Learning Path
+
+Introduction to security, compliance, and identity concepts
+
+52 min
+Microsoft Entra
+Business User
+Beginner
+
+
+Learning Path
+
+AZ-104: Prerequisites for Azure administrators
+
+3 hr 5 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+Introduction to Microsoft Entra
+
+2 hr 13 min
+Microsoft Entra
+Business User
+Beginner
+
+
+Learning Path
+
+AZ-104: Manage identities and governance in Azure
+
+4 hr 44 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+MD-102 Execute device enrollment
+
+1 hr 19 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+AZ-500: Secure identity and access
+
+7 hr 12 min
+Azure
+Security Engineer
+Intermediate
+
+
+Learning Path
+
+SC-300: Implement an identity management solution
+
+4 hr 16 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Build great solutions with the Microsoft Azure Well-Architected Framework
+
+6 hr 8 min
+Azure
+Solution Architect
+Beginner
+
+
+Learning Path
+
+Manage identity and access in Microsoft Entra ID
+
+1 hr 59 min
+Azure
+Solution Architect
+Beginner
+
+
+Learning Path
+
+SC-300: Implement an Authentication and Access Management solution
+
+4 hr 53 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+SC-300: Implement Access Management for Apps
+
+2 hr 34 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+SC-300: Plan and implement an identity governance strategy
+
+3 hr 18 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Get started with Windows PowerShell
+
+2 hr 13 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Secure your cloud applications in Azure
+
+3 hr 35 min
+Azure
+Solution Architect
+Beginner
+
+
+Learning Path
+
+Get started with Java on Azure
+
+4 hr 59 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Secure Windows Server on-premises and hybrid infrastructures
+
+6 hr 42 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Migrate servers and workloads in on-premises and hybrid environments
+
+3 hr 2 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Maintain system administration tasks in Windows PowerShell
+
+2 hr 3 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Implement Windows Server IaaS VM Identity
+
+2 hr 28 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Monitor and troubleshoot Windows Server environments
+
+7 hr 2 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Administer remote computers by using Windows PowerShell
+
+2 hr 23 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Manage Authentication, Authorization, and RBAC for AI workloads on Azure
+
+52 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Work with PowerShell providers and PowerShell drives in Windows PowerShell
+
+1 hr 13 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Develop a security and compliance plan
+
+5 hr 35 min
+Azure
+DevOps Engineer
+Beginner
+
+
+Learning Path
+
+Work with the Windows PowerShell pipeline
+
+3 hr 30 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Create cloud native apps with Azure and open-source software
+
+1 hr 19 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Manage security operations in Azure
+
+3 hr 36 min
+Azure
+Administrator
+Beginner
+
+
+Learning Path
+
+Create and modify scripts by using Windows PowerShell
+
+3 hr 41 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Expand the capabilities for Java apps on Azure
+
+2 hr 52 min
+Azure
+Developer
+Beginner
+
+
+Learning Path
+
+Implement a Windows Server hybrid cloud infrastructure
+
+7 hr 10 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Use variables, arrays, and hash tables in Windows PowerShell scripts
+
+1 hr 12 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Manage Microsoft 365 services by using Windows PowerShell
+
+3 hr 8 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Create and manage background jobs and scheduled jobs in Windows PowerShell
+
+1 hr 25 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Manage cloud resources by using Windows PowerShell
+
+2 hr 5 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Query management information by using Common Information Model and Windows Management Instrumentation
+
+1 hr 39 min
+Azure
+Administrator
+Intermediate
+
+
+Learning Path
+
+Best practices for Java apps on Azure
+
+4 hr 46 min
+Azure
+Developer
+Beginner
+
+Learning Path
+
+Modern management with Cloud-native Windows Accreditation 2025
+
+1 hr 3 min
+Microsoft Intune
+Administrator
+Beginner
+
+Module
+
+Understand Microsoft Entra ID
+
+31 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Microsoft Entra Identity Protection
+
+50 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Explore use cases of Microsoft Security Copilot
+
+3 hr 19 min
+Microsoft Copilot
+Security Engineer
+Beginner
+
+
+Module
+
+Create, configure, and manage identities
+
+1 hr 4 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Describe access management capabilities of Microsoft Entra
+
+34 min
+Azure
+Business User
+Beginner
+
+
+Module
+
+Describe the authentication capabilities of Microsoft Entra ID
+
+27 min
+Azure
+Business User
+Beginner
+
+
+Module
+
+Describe identity concepts
+
+20 min
+Microsoft Entra
+Business User
+Beginner
+
+
+Module
+
+Secure your Azure resources with Azure role-based access control (Azure RBAC)
+
+37 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Describe the function and identity types of Microsoft Entra ID
+
+35 min
+Azure
+Business User
+Beginner
+
+
+Module
+
+Allow users to reset their password with Microsoft Entra self-service password reset
+
+31 min
+Azure
+Administrator
+Beginner
+
+
+Module
+
+Describe the identity protection and governance capabilities of Microsoft Entra
+
+37 min
+Microsoft Entra
+Business User
+Beginner
+
+
+Module
+
+Secure Microsoft Entra users with multifactor authentication
+
+38 min
+Azure
+Security Engineer
+Beginner
+
+
+Module
+
+Configure and manage automation using Microsoft Defender for Endpoint
+
+34 min
+Microsoft 365
+Security Operations Analyst
+Intermediate
+
+
+Module
+
+Manage users and groups in Microsoft Entra ID
+
+50 min
+Azure
+Security Engineer
+Beginner
+
+
+Module
+
+Implement access management for Azure resources
+
+30 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Manage persistent connections to remote computers by using Windows PowerShell sessions
+
+34 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Enroll devices using Microsoft Intune
+
+50 min
+Microsoft Entra
+Administrator
+Intermediate
+
+
+Module
+
+Explore identity in Microsoft Entra ID
+
+48 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Microsoft Azure Well-Architected Framework - Security
+
+54 min
+Azure
+Solution Architect
+Intermediate
+
+
+Module
+
+Implement hybrid identity with Windows Server
+
+1 hr 49 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Explore the Microsoft identity platform
+
+21 min
+Microsoft Entra
+Developer
+Intermediate
+
+
+Module
+
+Manage Microsoft Entra application access
+
+1 hr 5 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage security controls for identity and access
+
+6 hr 7 min
+Azure
+Security Engineer
+Intermediate
+
+
+Module
+
+Design authentication and authorization solutions
+
+1 hr 10 min
+Microsoft Entra
+Solution Architect
+Advanced
+
+
+Module
+
+Connect Microsoft services to Microsoft Sentinel
+
+26 min
+Azure
+Security Operations Analyst
+Intermediate
+Module
+
+
+
+Understand the command syntax in Windows PowerShell
+
+28 min
+Azure
+Administrator
+Intermediate
+Module
+
+
+
+Deploy and Configure Microsoft Entra Global Secure Access
+
+58 min
+Azure
+Administrator
+Intermediate
+Module
+
+
+
+Plan, implement, and administer Conditional Access
+
+1 hr 5 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Review CIM and WMI
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage user authentication
+
+52 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Implement and manage hybrid identity
+
+1 hr 10 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Review Windows PowerShell
+
+55 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Find commands and Get-Help in Windows PowerShell
+
+50 min
+Azure
+Administrator
+Intermediate
+
+Module
+
+Plan and implement entitlement management
+
+55 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Plan and implement privileged access
+
+1 hr 2 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Plan, implement, and manage access review
+
+45 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Monitor and maintain Microsoft Entra ID
+
+36 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Deploy and manage Azure IaaS Active Directory domain controllers in Azure
+
+39 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Secure your identities by using Microsoft Entra ID
+
+27 min
+Azure
+Solution Architect
+Beginner
+
+
+Module
+
+Implement app registration
+
+48 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Monitor and report on security events in Microsoft Entra ID
+
+1 hr 12 min
+Azure
+Solution Architect
+Intermediate
+
+
+Module
+
+Manage Active Directory Domain Services using PowerShell cmdlets
+
+40 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Windows Server settings using PowerShell cmdlets
+
+28 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Troubleshoot Active Directory
+
+57 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Use advanced Windows PowerShell remoting techniques
+
+44 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Work with scripting constructs in Windows PowerShell
+
+39 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage settings for a local Windows machine using PowerShell cmdlets
+
+27 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage network service settings for Windows devices using PowerShell cmdlets
+
+28 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Exchange Online by using Windows PowerShell
+
+43 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Create and run scripts by using Windows PowerShell
+
+48 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Understand the Windows PowerShell pipeline
+
+30 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Enumerate objects in the pipeline
+
+23 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage SharePoint Online by using Windows PowerShell
+
+46 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Send and pass data as output from the pipeline
+
+28 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Select, sort, and measure objects using the pipeline
+
+42 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Use functions and modules in Windows PowerShell scripts
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Filter objects out of the pipeline
+
+37 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage single and multiple computers by using Windows PowerShell remoting
+
+1 hr 5 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Import data in different formats for use in scripts by using Windows PowerShell cmdlets
+
+28 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Use methods to accept user inputs in Windows PowerShell scripts
+
+41 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Troubleshoot scripts and handle errors in Windows PowerShell
+
+36 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Use PowerShell drives in PowerShell
+
+49 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Microsoft Teams by using Windows PowerShell
+
+27 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Pass pipeline objects
+
+50 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Authenticate your Azure deployment pipeline by using service principals
+
+34 min
+Azure
+Developer
+Intermediate
+
+
+Module
+
+Work with arrays and hash tables in Windows PowerShell scripts
+
+35 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Create and manage background jobs using Windows PowerShell
+
+37 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage users, groups, and licenses in Microsoft Entra ID by using Windows PowerShell
+
+1 hr 12 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Connect with data stores using PowerShell providers
+
+24 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Troubleshoot authentication and access control issues in Microsoft Azure
+
+32 min
+Azure
+Administrator
+Advanced
+
+
+Module
+
+Review the features and tools for Azure Cloud Shell
+
+35 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Create and manage scheduled jobs using Windows PowerShell
+
+48 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Review Azure PowerShell module
+
+45 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage variables in Windows PowerShell scripts
+
+37 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Introduction to migrating from Amazon Web Services to Microsoft Azure
+
+49 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Manage Azure resources with Windows PowerShell
+
+45 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Query and manipulate repository objects by using CIM and WMI methods
+
+29 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Query configuration information by using CIM and WMI
+
+41 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Troubleshoot network security issues with Microsoft Azure
+
+59 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Troubleshoot platform-as-a-service issues in Microsoft Azure
+
+52 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Troubleshoot routing, traffic control and load balancing in Microsoft Azure
+
+38 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Introduction to migrating from Google Cloud to Microsoft Azure
+
+49 min
+Azure
+Administrator
+Intermediate
+
+
+Module
+
+Introduction to Microsoft Entra ID
+
+21 min
+Microsoft Entra
+Business Owner
+Intermediate
+
+
+Module
+
+Automate identity lifecycle using Lifecycle Workflows in Microsoft Entra
+
+45 min
+Microsoft Entra
+Administrator
+Advanced
+
+
+Module
+
+Interactive case study: Modernizing identity and data security
+
+38 min
+Microsoft Entra
+Security Engineer
+Advanced
+
